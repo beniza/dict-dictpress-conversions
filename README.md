@@ -4,7 +4,7 @@ This repository contains ETL (Extract, Transform, Load) scripts to convert vario
 
 ## Disclaimer
 
-Most tasks, including coding are accomplished with the help of AI. 
+Most tasks, including coding, are accomplished with the help of AI. 
 
 ## Project Status
 
