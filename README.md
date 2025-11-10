@@ -11,6 +11,7 @@ Most tasks, including coding, are accomplished with the help of AI.
 | Dictionary | Status | Entries | Format | Year |
 |------------|--------|---------|--------|------|
 | **Sabdatharavali (STV)** | ✅ Complete | 55,643 | XDXF → dictpress | 1917 |
+| **Bailey's Dictionary** | 🚧 In Progress | ~18,000 | Plain text → dictpress | 1849 |
 | **Gundert's Dictionary** | 🚧 In Progress | ~18,500 | TEI XML → dictpress | 1872 |
 
 ## Dictionaries
@@ -30,7 +31,22 @@ cd stv
 python src/stv_to_dictpress.py "sayahna/*.xml" output/stv-dictpress.csv
 ```
 
-### 2. Gundert's Dictionary - 🚧 In Progress
+### 2. Bailey's English-Malayalam Dictionary - 🚧 In Progress
+
+**The first English-Malayalam dictionary** by Rev. Benjamin Bailey (1849), a pioneering work in Malayalam lexicography.
+
+- **Source**: Plain text format (digitized from original print)
+- **Historical Significance**: First bilingual English-Malayalam dictionary
+- **Orthographic Note**: Uses pre-reform Malayalam orthography (no visible word-final chandrakkala)
+- **Documentation**: See [`bailey-1849/README.md`](bailey-1849/README.md)
+
+**Quick Start:**
+```bash
+cd bailey-1849
+python bailey_to_dictpress.py dictionary-full.txt output/bailey-dictpress.csv
+```
+
+### 3. Gundert's Dictionary - 🚧 In Progress
 
 **Malayalam-English dictionary** by Hermann Gundert (1872), a foundational work in Malayalam lexicography.
 
@@ -65,6 +81,13 @@ olam-conversions/
 │   ├── output/               # Final dictpress CSV
 │   ├── analysis/             # Analysis & verification scripts
 │   └── README.md             # Detailed documentation
+│
+├── bailey-1849/              # Bailey conversion (in progress)
+│   ├── dictionary-full.txt   # Source plain text file
+│   ├── bailey_to_dictpress.py
+│   ├── test_converter.py
+│   ├── output/               # Generated dictpress CSV
+│   └── README.md
 │
 ├── gundert-1872/             # Gundert conversion (in progress)
 │   ├── gundert_to_dictpress.py
