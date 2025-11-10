@@ -2,11 +2,11 @@
 
 **Malayalam-Malayalam Dictionary (1917) → dictpress Format**
 
-This project converts the historical [Sabdatharavali](https://dict.sayahna.org/stv) (സബ്ദതരവാളി) Malayalam dictionary from XDXF format to dictpress-compatible CSV for integration into the [Olam](https://olam.in) Malayalam dictionary platform.
+This project converts the historical [Sabdatharavali](https://dict.sayahna.org/stv) (ശബ്ദതരാവലി) Malayalam dictionary from XDXF format to dictpress-compatible CSV for integration into the [Olam](https://olam.in) Malayalam dictionary platform.
 
 ## Dictionary Information
 
-- **Title**: സബ്ദതരവാളി (Sabdatharavali)
+- **Title**: ശബ്ദതരാവലി (Sabdatharavali)
 - **Author**: Sreekanteswaram Padmanabha Pillai
 - **Year**: 1917
 - **Type**: Malayalam-Malayalam (monolingual)

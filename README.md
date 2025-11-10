@@ -2,6 +2,10 @@
 
 This repository contains ETL (Extract, Transform, Load) scripts to convert various Malayalam dictionaries into the [dictpress](https://dict.press) format for integration into [Olam.in](https://olam.in), a comprehensive Malayalam dictionary platform.
 
+## Disclaimer
+
+Most tasks, including coding are accomplished by AI. 
+
 ## Project Status
 
 | Dictionary | Status | Entries | Format | Year |
