@@ -1,0 +1,1381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xdxf SYSTEM "xdxf_strict.dtd">
+<xdxf lang_from="MAL" lang_to="MAL" format="logical" revision="033">
+  <meta_info>
+    <title>ശബ്ദതാരാവലി</title>
+    <full_title>ശ്രീകണ്ഠേശ്വരം പത്മനാഭ പിള്ള: ശബ്ദതാരാവലി – മലയാളം നിഘണ്ടു</full_title>
+    <description>2021, (c) Sayahna Foundation, JWRA 34, Jagathy, Trivandrum
+695014, India. This is the complete XML version of the authoritative
+dictionary in Malayalam language written by Sreekanteswaram Padmanabha
+Pillai and published in 1917. This document is distributed under the
+provisions of Creative Commons Attribution-ShareAlike 4.0 International (CC
+BY-SA 4.0) license for free download and usage. The content is available
+online at: https://dict.sayahna.org/stv for public consumption. The HTML
+version is available at: https://stv.sayahna.org</description>
+    <publisher>Sayahna Foundation, JWRA 34, Jagathy, Trivandrum 695014, India.
+URL: http://sayahna.org Email: info@sayahna.org </publisher>
+    <authors>
+      <author role="primary author">Sreekanteswaram Padmanabha Pillai</author>
+      <author role="editor">S A Sreedevi</author>
+      <author role="editor">P Shamsudeen</author>
+      <author role="editor">Lissy Mathew</author>
+      <author role="XML generation">K B Sujith</author>
+      <author role="XML generation">J N Jamuna</author>
+      <author role="XML generation">L A Anjana</author>
+      <author role="maintainer">K V Rajeesh</author>
+      <author role="maintainer">P K Ashokkumar</author>
+      <author role="maintainer">C V Radhakrishnan</author>
+    </authors>
+    <file_ver>1.0</file_ver>
+    <creation_date>2021-01-20</creation_date>
+    <last_edited_date>2021-03-11</last_edited_date>
+    <dict_edition>2021</dict_edition>
+    <dict_src_url>https://dict.sayahna.org</dict_src_url>
+    <abbreviations>
+      <abbr_def>
+        <abbr_k>n.</abbr_k>
+        <abbr_v>noun</abbr_v>
+      </abbr_def>
+      <abbr_def>
+        <abbr_k>v.</abbr_k>
+        <abbr_v>verb</abbr_v>
+      </abbr_def>
+      <abbr_def>
+        <abbr_k>adj.</abbr_k>
+        <abbr_v>adjective</abbr_v>
+      </abbr_def>
+      <abbr_def>
+        <abbr_k>trv.</abbr_k>
+        <abbr_v>transitive verb</abbr_v>
+      </abbr_def>
+    </abbreviations>
+  </meta_info>
+  <lexicon>
+    <ar>
+      <!--1-->
+      <k>ട</k>
+      <def>
+        <def>
+          <deftext>ഹല്ലുകളിൽ പതിനൊന്നാം അക്ഷരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--2-->
+      <k>ടക്വരൻ</k>
+      <def>
+        <def>
+          <deftext>ശിവൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--3-->
+      <k>ടഗരം</k>
+      <def>
+        <def>
+          <deftext>പൊൻകാരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--4-->
+      <k>ടംകം(ഗ)ം</k>
+      <def>
+        <def>
+          <deftext>പൊൻകാരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--5-->
+      <k>ടംക(ഗ)ണം</k>
+      <def>
+        <def>
+          <deftext>പൊങ്കാരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--6-->
+      <k>ടങ്കടീകൻ</k>
+      <def>
+        <def>
+          <deftext>ശിവൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--7-->
+      <k>ടങ്കണക്ഷാരം</k>
+      <def>
+        <def>
+          <deftext>പൊൻകാരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--8-->
+      <k>ടങ്കപതി</k>
+      <def>
+        <def>
+          <deftext>കമ്മട്ടം വിചാരിപ്പുകാരൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--9-->
+      <k>ടങ്കം</k>
+      <def>
+        <def>
+          <deftext>വെണ്മഴു, കല്ലുളി, കല്ലുപൊളിക്കുന്ന പാര</deftext>
+        </def>
+        <def>
+          <expl>‘ടം’ എന്നു ശബ്ദിക്കുന്നതു് എന്നർത്ഥം.</expl>
+        </def>
+        <def>
+          <ex type="poem">
+            <ex_orig>
+‘ടങ്കവും മൃഗവും പരശുവും തിങ്കളും തിരുനീർ ഫണികളും’<br/>
+aquad (കിരാതം തുള്ളൽ).
+</ex_orig>
+          </ex>
+        </def>
+        <def>
+          <deftext>കോക്കോട്ടു്</deftext>
+        </def>
+        <def>
+          <deftext>പൊങ്കാരം</deftext>
+        </def>
+        <def>
+          <deftext>ഡംഭം</deftext>
+        </def>
+        <def>
+          <deftext>വാൾ</deftext>
+        </def>
+        <def>
+          <deftext>കോപം</deftext>
+        </def>
+        <def>
+          <deftext>മൺവെട്ടി</deftext>
+        </def>
+        <def>
+          <deftext>കാൽ, ജംഘ</deftext>
+        </def>
+        <def>
+          <deftext>ഒരു മുദ്രനാണയം</deftext>
+        </def>
+        <def>
+          <deftext>ഞെട്ടികുഴിയൻമാവു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--10-->
+      <k>ടങ്കശാല</k>
+      <def>
+        <def>
+          <deftext>കമ്മട്ടപുര</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--11-->
+      <k>ടങ്കാനകം</k>
+      <def>
+        <def>
+          <deftext>മുചുക്കോട്ടമരം</deftext>
+        </def>
+        <def>
+          <expl>കാട്ടരയാൽ.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--12-->
+      <k>ടങ്കാര</k>
+      <def>
+        <def>
+          <deftext>ഞാണിന്റെ ശബ്ദം</deftext>
+        </def>
+        <def>
+          <deftext>ആശ്ചര്യം</deftext>
+        </def>
+        <def>
+          <deftext>കരച്ചിൽ, ശബ്ദം</deftext>
+        </def>
+        <def>
+          <deftext>കീർത്തി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--13-->
+      <k>ടംഗം</k>
+      <def>
+        <def>
+          <deftext>പടന്ന, തൂമ്പാ, കൈക്കോട്ടു്</deftext>
+        </def>
+        <def>
+          <deftext>പൊൻകാരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--14-->
+      <k>ടവൽ</k>
+      <def>
+        <def>
+          <deftext>വിയർപ്പു തുടപ്പാനും മറ്റുമായി കൈയിൽ വെച്ചുകൊണ്ടിരിക്കുന്ന
+വസ്ത്രഖണ്ഡം</deftext>
+        </def>
+        <sr>
+          <kref type="syn">നക്തകം</kref>
+          <kref type="syn">കർപ്പടം.</kref>
+        </sr>
+      </def>
+    </ar>
+    <ar>
+      <!--15-->
+      <k>ടാങ്കരൻ</k>
+      <def>
+        <def>
+          <deftext>കാമുകൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--16-->
+      <k>ടാങ്കാരം</k>
+      <def>
+        <def>
+          <deftext>കിലുകിലുപ്പു്</deftext>
+        </def>
+        <def>
+          <deftext>ശിഞ്ജിതം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--17-->
+      <k>ടാപ്പ്, ഡാപ്പ്</k>
+      <def>
+        <def>
+          <deftext>കുറിപ്പടി,ഉപകരണങ്ങളെ എല്ലാം കുറിച്ചിട്ടുള്ള ലിസ്തു്</deftext>
+        </def>
+        <def>
+          <deftext>വണ്ടിയുടെ മേൽക്കൂടു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--18-->
+      <k>ടാരം</k>
+      <def>
+        <def>
+          <deftext>കുതിര</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--19-->
+      <k>ടാവു</k>
+      <def>
+        <def>
+          <deftext>സൂത്രം</deftext>
+        </def>
+        <def>
+          <deftext>കള്ളം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--20-->
+      <k>ടിട്ടിഭം(കം), ടിടിഭം(കം)</k>
+      <def>
+        <def>
+          <deftext>കുളക്കോഴി</deftext>
+        </def>
+        <def>
+          <expl>ടിട്ടിഭം(കം) എന്നാൽ ‘ടിട്ടി’ എന്നു ശബ്ദിക്കുന്നതു് എന്നർത്ഥം.</expl>
+        </def>
+        <def>
+          <ex type="poem">
+            <ex_orig>
+‘ടിട്ടിഭമെന്നാൽ കുളക്കോഴിയെന്നറിയണം’<br/>
+aquad (പഞ്ചതന്ത്രം).
+</ex_orig>
+          </ex>
+        </def>
+        <def>
+          <expl>ടിട്ടിഭപ്പക്ഷിക്കു ‘കൂതികുലുക്കിപ്പക്ഷി’ എന്നും പേരുണ്ടു്. ഇതിന്റെ കാൽ മഞ്ഞനിറമാണു്. ശരീരം
+നാനാവർണ്ണമായിരിക്കും. ഇതിനു നിദ്രയേ ഇല്ല. ടിട്ടി എന്നു ശബ്ദിക്കുന്നു. സഞ്ചാരം മിക്കവാറും രാത്രിയിലാണു്.
+കിടപ്പു ജലത്തിലാകുന്നു. തമിഴിൽ – ചിറുകുരുവി. ഇംഗ്ലീഷിൽ – Parra Jacana.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--21-->
+      <k>ടിണ്ഡിശം</k>
+      <def>
+        <def>
+          <deftext>കുരുട്ടുവെള്ളരി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--22-->
+      <k>ടിപ്പ്</k>
+      <def>
+        <def>
+          <deftext>ചെപ്പ്</deftext>
+        </def>
+        <def>
+          <deftext>ചിമിഴു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--23-->
+      <k>ടിപ്പണി</k>
+      <def>
+        <def>
+          <deftext>ഒരു ഗ്രന്ഥത്തിൽ അങ്ങുമിങ്ങും ദുർഘടപദങ്ങൾക്കുമാത്രം ചെയ്യുന്ന
+വ്യാഖ്യാനം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--24-->
+      <k>ടീക</k>
+      <def>
+        <def>
+          <deftext>ഒരു ഗ്രന്ഥത്തിനു സമഷ്ടിയായിട്ടുള്ള അർത്ഥവിവരണം. വിഷയപദവ്യാഖ്യയുടെ പേരെന്നും
+കാണുന്നു. ‘ടീകാനിരന്തരവ്യാഖ്യാ’</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--25-->
+      <k>ടുക</k>
+      <def>
+        <def>
+          <deftext>ഒരു തൈ</deftext>
+        </def>
+        <def>
+          <deftext>കാട്ടുമുല്ല</deftext>
+        </def>
+        <def>
+          <deftext>താർതാവൽ എന്ന മരുന്നു എന്നു ചിലർ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--26-->
+      <k>ടുണ്ടുക</k>
+      <def>
+        <gr>adj.</gr>
+        <def>
+          <deftext>ചെറിയ</deftext>
+        </def>
+        <def>
+          <deftext>കടുപ്പമുള്ള</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--27-->
+      <k>ടുണ്ടുകം</k>
+      <def>
+        <def>
+          <deftext>ഒരു വൃക്ഷം, പലകപ്പയ്യാനി</deftext>
+        </def>
+        <def>
+          <deftext>പീനാറി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--28-->
+      <k>ടുണ്ടുകി</k>
+      <def>
+        <def>
+          <deftext>പാട</deftext>
+        </def>
+        <def>
+          <expl>(സംസ്കൃതത്തിൽ – പാഠ.)</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--29-->
+      <k>ടുനാക</k>
+      <def>
+        <def>
+          <deftext>നിലപ്പന</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--30-->
+      <k>ടേപനം</k>
+      <def>
+        <def>
+          <deftext>അയക്ക</deftext>
+        </def>
+        <def>
+          <deftext>എറിക</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--31-->
+      <k>ടേര, ടേരക</k>
+      <def>
+        <gr>adj.</gr>
+        <def>
+          <deftext>കോങ്കണ്ണുള്ള</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--32-->
+      <k>ടോട</k>
+      <def>
+        <gr>adj.</gr>
+        <def>
+          <deftext>ചെറിയ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--33-->
+      <k>ടോപം</k>
+      <def>
+        <def>
+          <deftext>ഡംഭം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--34-->
+      <k>ഠ</k>
+      <def>
+        <def>
+          <deftext>ഹല്ലുകളിൽ പന്ത്രണ്ടാം അക്ഷരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--35-->
+      <k>ഠക്കുരം</k>
+      <def>
+        <def>
+          <deftext>വിഗ്രഹം, ദേവത</deftext>
+        </def>
+        <def>
+          <deftext>പേരുകളോടു ബഹുമാനത്തിനായി ചേർക്കുന്ന ഒരു പദം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--36-->
+      <k>ഠൻ</k>
+      <def>
+        <def>
+          <deftext>ശിവൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--37-->
+      <k>ഠാണാവു്, ഠാണാ</k>
+      <def>
+        <def>
+          <deftext>വിചാരണ കഴിയുന്നതുവരെ കുറ്റക്കാരെ താമസിച്ചു സൂക്ഷിക്കുന്ന മുറി</deftext>
+        </def>
+        <def>
+          <deftext>ഇരിപ്പുസ്ഥലം, സ്ഥാനം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--38-->
+      <k>ഠായം</k>
+      <def>
+        <def>
+          <deftext>ഒരുവക പാട്ടും കളിയും</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--39-->
+      <k>ഠാരം</k>
+      <def>
+        <def>
+          <deftext>ഉറച്ച മഞ്ഞു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--40-->
+      <k>ഠാലിനി</k>
+      <def>
+        <def>
+          <deftext>കച്ച</deftext>
+        </def>
+        <def>
+          <deftext>അരക്കെട്ടു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--41-->
+      <k>ഠിക്കാനം</k>
+      <def>
+        <def>
+          <deftext>ഉറപ്പിപ്പു്</deftext>
+        </def>
+        <def>
+          <deftext>ഇരിപ്പിടം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--42-->
+      <k>ഡ</k>
+      <def>
+        <def>
+          <deftext>ഹല്ലുകളിൽ പതിമൂന്നാംഅക്ഷരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--43-->
+      <k>ഡക്കാരി</k>
+      <def>
+        <def>
+          <deftext>ചണ്ഡാളരുടെ വീണ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--44-->
+      <k>ഡൻ</k>
+      <def>
+        <def>
+          <deftext>ശിവൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--45-->
+      <k>ഡമരം</k>
+      <def>
+        <def>
+          <deftext>കലഹം, ആയുധം കൂടാതെയുള്ള കലഹം</deftext>
+        </def>
+        <def>
+          <deftext>ആർപ്പുകൊണ്ടും ഭാവംകൊണ്ടും ശത്രുവിനെ ഭയപ്പെടുത്തുക</deftext>
+        </def>
+        <def>
+          <deftext>കൊള്ള മുതലായ ദേശോപദ്രവം</deftext>
+        </def>
+        <def>
+          <deftext>അമളി</deftext>
+        </def>
+        <def>
+          <deftext>നാശം</deftext>
+        </def>
+        <def>
+          <expl>‘ഡമ’ എന്ന കോലാഹല ശബ്ദത്തേ ഉണ്ടാക്കുന്നതു് എന്നർത്ഥം.</expl>
+        </def>
+        <def>
+          <ex type="poem">
+            <ex_orig>
+‘ഡംഭാഹംകാരങ്ങൾകൊണ്ടുഡമരംജൃംഭിക്കുന്നു’<br/>
+aquad (പാലാഴിമഥനം കഥകളി).
+</ex_orig>
+          </ex>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--46-->
+      <k>ഡമരു</k>
+      <def>
+        <def>
+          <deftext>ഒരു വാദ്യം, ഉടുക്കു</deftext>
+        </def>
+        <def>
+          <deftext>കടുന്തുടി</deftext>
+        </def>
+        <def>
+          <expl>‘ഡമ’ എന്നു ശബ്ദിക്കുന്നതു് എന്നർത്ഥം.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--47-->
+      <k>ഡങ്കാരം</k>
+      <def>
+        <def>
+          <deftext>ടങ്കാരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--48-->
+      <k>ഡംഗരി, ഡംഗാരി</k>
+      <def>
+        <def>
+          <deftext>ആനക്കൊമ്പൻ വെള്ളരി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--49-->
+      <k>ഡംബര</k>
+      <def>
+        <gr>adj.</gr>
+        <def>
+          <deftext>കീർത്തിയുള്ള</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--50-->
+      <k>ഡംബരം</k>
+      <def>
+        <def>
+          <deftext>കലഹം</deftext>
+        </def>
+        <def>
+          <deftext>അഹംഭാവം</deftext>
+        </def>
+        <def>
+          <ex type="poem">
+            <ex_orig>
+‘ഡംബരമാണ്ടുമുഴങ്ങിത്തുടങ്ങീത- ങ്ങംബരംതന്നിലേ മെല്ലേ മെല്ലേ’ (കൃഷ്ണഗാഥ)
+</ex_orig>
+          </ex>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--51-->
+      <k>ഡംബൽ</k>
+      <def>
+        <def>
+          <deftext>വ്യായാമത്തിനുള്ള ഒരു പദാർത്ഥം</deftext>
+        </def>
+        <def>
+          <expl>(ഇരുമ്പുകൊണ്ടുള്ള ഉണ്ട.)</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--52-->
+      <k>ഡംഭം</k>
+      <def>
+        <def>
+          <deftext>അഹംഭാവം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--53-->
+      <k>ഡംഭു്</k>
+      <def>
+        <def>
+          <deftext>അഹംഭാവം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--54-->
+      <k>ഡമ്മാനം</k>
+      <def>
+        <def>
+          <deftext>ഒരുവക വാദ്യം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--55-->
+      <k>ഡർബാർ</k>
+      <def>
+        <def>
+          <deftext>രാജസമാജം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--56-->
+      <k>ഡയനം</k>
+      <def>
+        <def>
+          <deftext>പല്ലക്കു്, അന്തോളം, മഞ്ചൽ മുതലായ വാഹനങ്ങൾ</deftext>
+        </def>
+        <def>
+          <deftext>സ്ത്രീകൾക്കിരിപ്പാൻ യോഗ്യമായ രഥവിശേഷം</deftext>
+        </def>
+        <def>
+          <expl>ഭൂമിയിൽ സ്പർശിക്കാതെ നടക്കുന്നതു എന്നർത്ഥം. ‘ഹയനം’ എന്നുമുണ്ടു്.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--57-->
+      <k>ഡലകം, ഡല്ലകം</k>
+      <def>
+        <def>
+          <deftext>ഉറി</deftext>
+        </def>
+        <def>
+          <deftext>കൊട്ട (കുട്ട)</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--58-->
+      <k>ഡലായിത്തു</k>
+      <def>
+        <def>
+          <deftext>ശിപായി</deftext>
+        </def>
+        <def>
+          <expl>(ഹിന്ദുസ്ഥാനി ഭാഷ.)</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--59-->
+      <k>ഡവാൽ</k>
+      <def>
+        <def>
+          <deftext>പട്ട</deftext>
+        </def>
+        <def>
+          <deftext>ഇളിപ്പൂട്ടു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--60-->
+      <k>ഡഹു</k>
+      <def>
+        <def>
+          <deftext>അയിനിപ്പിലാവു്</deftext>
+        </def>
+        <def>
+          <deftext>അയനിമരം</deftext>
+        </def>
+        <def>
+          <expl>വിറകിന്നുപയോഗിക്കുന്നതു നിമിത്തം ഭസ്മമാക്കപ്പെടുന്നതുകൊണ്ടു് ഈ പേർ
+വന്നു.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--61-->
+      <k>ഡാഡിമപുഷ്പക</k>
+      <def>
+        <def>
+          <deftext>ചെമ്മരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--62-->
+      <k>ഡാഡിമം, ദാഡിമം</k>
+      <def>
+        <def>
+          <deftext>താളിമാതളം</deftext>
+        </def>
+        <def>
+          <deftext>മാതളം</deftext>
+        </def>
+        <def>
+          <deftext>ഉറുമാമ്പഴം. പൊട്ടിച്ചിതറുന്നതു് എന്നർത്ഥം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--63-->
+      <k>ഡാംഗർ</k>
+      <def>
+        <def>
+          <deftext>ഒരുകറി</deftext>
+        </def>
+        <def>
+          <deftext>ഉഴുന്നുംമാവു തൈരിൽ കലക്കി ഇഞ്ചി</deftext>
+        </def>
+        <def>
+          <deftext>പച്ചമുളകു്</deftext>
+        </def>
+        <def>
+          <deftext>കായം ഇവ ചേർത്തു കടുകുവറുക്കുന്നതു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--64-->
+      <k>ഡാംഗരി</k>
+      <def>
+        <def>
+          <deftext>ആനക്കൊമ്പൻ വെള്ളരി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--65-->
+      <k>ഡാമര</k>
+      <def>
+        <gr>adj.</gr>
+        <def>
+          <deftext>ഭയങ്കരമായ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--66-->
+      <k>ഡാഹുകം</k>
+      <def>
+        <def>
+          <deftext>നത്തു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--67-->
+      <k>ഡിണ്ഡിമം</k>
+      <def>
+        <def>
+          <deftext>ചെണ്ട</deftext>
+        </def>
+        <def>
+          <expl>‘ഡിംഡിം’ അല്ലെങ്കിൽ ‘ഡിണ്ഡി’ എന്നിങ്ങനെ ശബ്ദിക്കുന്നതെന്നർത്ഥം. പെരുമ്പറ, ജയഭേരി,
+തമുക്കു്, പറ.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--68-->
+      <k>ഡിണ്ഡിരമോദകം</k>
+      <def>
+        <def>
+          <deftext>ചണ്ണമുള്ളങ്കി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--69-->
+      <k>ഡിണ്ഡീരം, ഡിണ്ഡിരം</k>
+      <def>
+        <def>
+          <deftext>കടൽനാക്കു്</deftext>
+        </def>
+        <def>
+          <deftext>കടൽനുര</deftext>
+        </def>
+        <def>
+          <expl>‘ഹിണ്ഡീരം’ എന്നുമുണ്ടു്. ‘ഹിണ്ഡി’ എന്നു ശബ്ദിക്കുന്നതു് എന്നർത്ഥം.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--70-->
+      <k>ഡിംഗരൻ</k>
+      <def>
+        <def>
+          <deftext>ഭൃത്യൻ</deftext>
+        </def>
+        <def>
+          <deftext>കള്ളൻ</deftext>
+        </def>
+        <def>
+          <deftext>നീചൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--71-->
+      <k>ഡിംഗരി</k>
+      <def>
+        <def>
+          <deftext>ആനക്കൊമ്പൻ വെള്ളരി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--72-->
+      <k>ഡിംബം</k>
+      <def>
+        <def>
+          <deftext>കലഹം, ആയുധം കൂടാതെയുള്ള കലഹം</deftext>
+        </def>
+        <def>
+          <deftext>അനർത്ഥം</deftext>
+        </def>
+        <def>
+          <deftext>കൊള്ള മുതലായ ദേശോപദ്രവം, ഉപദ്രവം</deftext>
+        </def>
+        <def>
+          <expl>ഇതിനാൽ ജനങ്ങൾ ഓടിപ്പോകുന്നതുകൊണ്ടു് ഈ പേർ വന്നു.</expl>
+        </def>
+        <def>
+          <deftext>വെളുത്താവണക്കു്</deftext>
+        </def>
+        <def>
+          <deftext>പെരുമഴ</deftext>
+        </def>
+        <def>
+          <deftext>പ്രളയം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--73-->
+      <k>ഡിംഭ</k>
+      <def>
+        <def>
+          <deftext>കമരുന്ന സ്ഥിതിയിലല്ലാത്ത കുട്ടി</deftext>
+        </def>
+        <def>
+          <deftext>മുലകുടിപ്രായത്തിലുള്ള കുട്ടി</deftext>
+        </def>
+        <def>
+          <expl>മുലകുടിപ്പാനായി അമ്മയൊന്നിച്ചു ചേർന്നു കിടക്കുന്നതെന്നർത്ഥം.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--74-->
+      <k>ഡിംഭകൻ</k>
+      <def>
+        <def>
+          <deftext>ജരാസന്ധന്റെ ഒരു കൂട്ടുകാരൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--75-->
+      <k>ഡിംഭൻ</k>
+      <def>
+        <def>
+          <deftext>കൊച്ചുപൈതൽ, കുട്ടി</deftext>
+        </def>
+        <def>
+          <expl>കൂട്ടിപ്പിണഞ്ഞുകിടക്കുന്നതു് എന്നർത്ഥം.</expl>
+        </def>
+        <def>
+          <ex type="poem">
+            <ex_orig>
+‘അംഭോജമൊട്ടിനേഞെട്ടിക്കുമക്കുച- കുംഭംപതുക്കവേഡിംഭന്നുനൽകിനാൾ’ (കൃഷ്ണലീല തുള്ളൽ)
+</ex_orig>
+          </ex>
+        </def>
+        <def>
+          <deftext>മൂർഖൻ, അറിവില്ലാത്തവൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--76-->
+      <k>ഡിംഭം</k>
+      <def>
+        <def>
+          <deftext>കുട്ടി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--77-->
+      <k>ഡിംഭാനിലൻ</k>
+      <def>
+        <def>
+          <deftext>ഇളങ്കാറ്റു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--78-->
+      <k>ഡില്ലി</k>
+      <def>
+        <def>
+          <deftext>ഡൽഹി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--79-->
+      <k>ഡീക്കു്</k>
+      <def>
+        <def>
+          <deftext>ഡംഭു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--80-->
+      <k>ഡുണ്ഡുകം</k>
+      <def>
+        <def>
+          <deftext>ഒരു വൃക്ഷം</deftext>
+        </def>
+        <def>
+          <deftext>പലകപ്പയ്യാനി</deftext>
+        </def>
+        <def>
+          <expl>(‘ദുന്ദുകം’ എന്നും പാഠമുണ്ടു്.) ‘ഡുംഡും’ എന്നു ശബ്ദിക്കുന്നതു് എന്നർത്ഥം.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--81-->
+      <k>ഡുണ്ഡുഭം</k>
+      <def>
+        <def>
+          <deftext>ഒരുവക പാമ്പു്</deftext>
+        </def>
+        <def>
+          <deftext>ചേര.</deftext>
+        </def>
+        <def>
+          <expl>‘ഡുംഡും’ എന്നു ശബ്ദിക്കുന്നതു് എന്നർത്ഥം. ഒളിച്ചുനടക്കുന്നതു്, അടങ്ങിയിരിക്കുന്നതു്
+ഇങ്ങനേയുമാവം. ‘ഇരുതലപ്പാമ്പു’ എന്ന അർത്ഥവും കാണുന്നു.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--82-->
+      <k>ഡുണ്ഡുലം</k>
+      <def>
+        <def>
+          <deftext>ചെറിയ മൂങ്ങ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--83-->
+      <k>ഡുലം</k>
+      <def>
+        <def>
+          <deftext>ചെറിയ മൂങ്ങ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--84-->
+      <k>ഡുളി(ലി)</k>
+      <def>
+        <def>
+          <deftext>പെണ്ണാമ</deftext>
+        </def>
+        <def>
+          <expl>‘ദുളി’ എന്നതു പ്രസിദ്ധം. ജലം കലക്കിമറിക്കുന്നതു് എന്നർത്ഥം.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--85-->
+      <k>ഡേരാ</k>
+      <def>
+        <def>
+          <deftext>കൂടാരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--86-->
+      <k>ഡോഡികാ, ഡോഡി</k>
+      <def>
+        <def>
+          <deftext>വിഷമുഷ്ടി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--87-->
+      <k>ഡോമൻ</k>
+      <def>
+        <def>
+          <deftext>താണജാതിക്കാരൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--88-->
+      <k>ഡോരഡി</k>
+      <def>
+        <def>
+          <deftext>ചെറുവഴുതിന</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--89-->
+      <k>ഡോലി</k>
+      <def>
+        <def>
+          <deftext>പല്ലക്കു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--90-->
+      <k>ഡോള</k>
+      <def>
+        <def>
+          <deftext>ഉഴിഞ്ഞാൽ, ഊഞ്ഞാൽ</deftext>
+        </def>
+        <def>
+          <deftext>പല്ലക്കു്</deftext>
+        </def>
+        <def>
+          <deftext>മനയോല</deftext>
+        </def>
+        <def>
+          <deftext>അമരി</deftext>
+        </def>
+        <def>
+          <expl>(തമിഴ് പാഠമാണു് ‘ഡോള’. കാറ്റിനാൽ ഉൽക്ഷേപിക്കപ്പെടുന്നതു്
+എന്നർത്ഥം.)</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--91-->
+      <k>ഡോളായന്ത്രം</k>
+      <def>
+        <def>
+          <deftext>മരുന്നു ശുദ്ധിചെയ്തു് എടുക്കുന്നതിനുള്ള ഒരു സമ്പ്രദായം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--92-->
+      <k>ഡോളായമാന</k>
+      <def>
+        <gr>adj.</gr>
+        <def>
+          <deftext>ഇളക്കുന്ന</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--93-->
+      <k>ഡോളായമാനം</k>
+      <def>
+        <def>
+          <deftext>ഇളക്കം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--94-->
+      <k>ഡോളായിതം</k>
+      <def>
+        <def>
+          <deftext>ഊഞ്ഞാൽ പോലെ ആടിക്കൊണ്ടിരിക്കുന്നതു്</deftext>
+        </def>
+        <def>
+          <deftext>ചഞ്ചലം</deftext>
+        </def>
+        <def>
+          <ex type="poem">
+            <ex_orig>
+‘ഡോളായിതമിഹമാമകഹൃദയം’<br/>
+aquad (കിർമ്മീരവധംകഥകളി).
+</ex_orig>
+          </ex>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--95-->
+      <k>ഢ</k>
+      <def>
+        <def>
+          <deftext>ഹല്ലുകളിൽ പതിന്നാലാം അക്ഷരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--96-->
+      <k>ഢക്ക</k>
+      <def>
+        <def>
+          <deftext>നിഷാണ (നിസ്സാരണ) വാദ്യം</deftext>
+        </def>
+        <def>
+          <expl>തിരിച്ചറിവാൻ പാടില്ലാത്തവിധം ശബ്ദിക്കുന്നതെന്നർത്ഥം. ‘വീരവാണം’ ‘ഭേരി’ ഇങ്ങിനേയും
+പറയുന്നുണ്ടു്.</expl>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--97-->
+      <k>ഢക്കാനാദചലജ്ജലാ</k>
+      <def>
+        <def>
+          <deftext>ഗംഗാനദി</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--98-->
+      <k>ഢങ്കാരം</k>
+      <def>
+        <def>
+          <deftext>ഒരു ശബ്ദം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--99-->
+      <k>ഢമാനം, ഡമ്മാനം</k>
+      <def>
+        <def>
+          <deftext>ഒരുവക വാദ്യം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--100-->
+      <k>ഢാമരാ</k>
+      <def>
+        <def>
+          <deftext>പിടപ്പാത്ത</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--101-->
+      <k>ഢാലം</k>
+      <def>
+        <def>
+          <deftext>പരിശ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--102-->
+      <k>ഢാലി</k>
+      <def>
+        <def>
+          <deftext>പരിശ ധരിച്ച യോദ്ധാവു്</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--103-->
+      <k>ഢീക്കു്, ഡീക്കം, ഡീക്കു്</k>
+      <def>
+        <def>
+          <deftext>ഗർവം</deftext>
+        </def>
+        <def>
+          <deftext>പൊങ്ങച്ചം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--104-->
+      <k>ഢീക്കൻ, ഡീക്കൻ</k>
+      <def>
+        <def>
+          <deftext>അഹങ്കാരി</deftext>
+        </def>
+        <def>
+          <deftext>വെറും പൊങ്ങച്ചം പറയുന്നവൻ, തന്നത്താൻ സ്തുതിക്കുന്നവൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--105-->
+      <k>ഢുംഢനം</k>
+      <def>
+        <def>
+          <deftext>അന്വേഷണം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--106-->
+      <k>ഢുംഢി</k>
+      <def>
+        <def>
+          <deftext>ഗണേശൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--107-->
+      <k>ഢൗലം</k>
+      <def>
+        <def>
+          <deftext>ഒരു വലിയ വാദ്യം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--108-->
+      <k>ണ</k>
+      <def>
+        <def>
+          <deftext>ഹല്ലുകളിൽ പതിനഞ്ചാം അക്ഷരം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--109-->
+      <k>ണൻ</k>
+      <def>
+        <def>
+          <deftext>ശിവൻ</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--110-->
+      <k>ണത്താർമാനിനി</k>
+      <def>
+        <def>
+          <deftext>നൽത്താർമാനിനി</deftext>
+        </def>
+        <def>
+          <deftext>ലക്ഷ്മീദേവി.</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--111-->
+      <k>ണം</k>
+      <def>
+        <def>
+          <deftext>ജ്ഞാനം</deftext>
+        </def>
+        <def>
+          <deftext>നിർണ്ണയം</deftext>
+        </def>
+        <def>
+          <deftext>ദാനം, സമ്മാനം</deftext>
+        </def>
+        <def>
+          <deftext>ആഭരണം</deftext>
+        </def>
+      </def>
+    </ar>
+    <ar>
+      <!--112-->
+      <k>ണാ</k>
+      <def>
+        <def>
+          <deftext>പശു</deftext>
+        </def>
+      </def>
+    </ar>
+  </lexicon>
+</xdxf>

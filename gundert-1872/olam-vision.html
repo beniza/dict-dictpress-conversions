@@ -1,0 +1,1001 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Olam · The Authentic Malayalam Lexicon</title>
+  <meta name="description" content="Research-grade Malayalam dictionary platform with citation-backed entries, semantic graphs, morphology, and standards-aligned data." />
+  <link rel="stylesheet" href="olam-vision.css" />
+</head>
+<body>
+  <nav class="top-nav" role="navigation" aria-label="Main navigation">
+    <div class="top-nav-inner">
+      <a href="#" class="logo" aria-label="Olam home">
+        <span class="logo-mal">ഓളം</span>
+      </a>
+      <div class="nav-links">
+        <a href="#vision">Vision</a>
+        <a href="#features">Features</a>
+        <a href="#explore">Explore</a>
+        <a href="#standards">Standards</a>
+        <a href="#community">Community</a>
+      </div>
+      <button class="nav-cta">Try Beta</button>
+    </div>
+  </nav>
+
+  <main>
+    <!-- Prominent Search Hero -->
+    <section class="search-hero" role="search" aria-labelledby="search-hero-title">
+      <div class="search-hero-container">
+        <h1 id="search-hero-title" class="search-hero-title">
+          <span class="search-hero-logo mal">ഓളം</span>
+          <span class="search-hero-subtitle">The Authentic Malayalam Lexicon</span>
+        </h1>
+        
+        <form class="primary-search" aria-label="Dictionary search">
+          <div class="primary-search-container">
+            <svg class="primary-search-icon" width="24" height="24" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+              <circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="2"/>
+              <path d="M12.5 12.5L17 17" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            <input 
+              type="search" 
+              name="q" 
+              placeholder="Search Malayalam or English headwords…" 
+              aria-label="Search dictionary"
+              class="primary-search-input"
+              autofocus
+            />
+            <button type="submit" class="primary-search-submit">Search</button>
+          </div>
+          <div class="primary-search-modes">
+            <label class="primary-mode-toggle">
+              <input type="radio" name="mode" value="en-ml" checked />
+              <span>English → Malayalam</span>
+            </label>
+            <label class="primary-mode-toggle">
+              <input type="radio" name="mode" value="ml-ml" />
+              <span>Malayalam → Malayalam</span>
+            </label>
+            <label class="primary-mode-toggle">
+              <input type="radio" name="mode" value="ml-en" />
+              <span>Malayalam → English</span>
+            </label>
+            <label class="primary-mode-toggle">
+              <input type="radio" name="mode" value="visuwords" />
+              <span>VisuWords Graph</span>
+            </label>
+          </div>
+        </form>
+
+        <div class="search-hero-badges">
+          <span class="hero-badge badge-accent">WordNet Aligned</span>
+          <span class="hero-badge badge-teal">LIFT Native</span>
+          <span class="hero-badge badge-warm">TEI Citations</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mission & Value Props -->
+    <section class="hero" id="vision" aria-labelledby="hero-title">
+      <div class="hero-content">
+        <h2 id="hero-title" class="hero-heading">
+          Citation-Backed Lexicography<br />
+          <span class="hero-title-highlight">Built for Researchers, Learners & Communities</span>
+        </h2>
+        <p class="hero-description">
+          Olam unifies authoritative Malayalam sources—from Gundert's 1872 masterwork to Sabdatharavali's encyclopedic depth—into a citation-backed, standards-aligned platform. Every entry traces provenance, every sense links to semantic graphs, and every contributor builds trust through transparent governance.
+        </p>
+
+        <div class="hero-metrics">
+          <div class="metric">
+            <strong>164,230</strong>
+            <span>Lemmas with citations</span>
+          </div>
+          <div class="metric">
+            <strong>37</strong>
+            <span>Heritage sources</span>
+          </div>
+          <div class="metric">
+            <strong>88%</strong>
+            <span>Reviewed in 90 days</span>
+          </div>
+        </div>
+      </div>
+      
+      <div class="hero-visual" aria-hidden="true">
+        <div class="floating-card card-1">
+          <div class="card-header">
+            <span class="card-icon">📚</span>
+            <span class="card-title mal">വാക്ക്</span>
+          </div>
+          <div class="card-body">
+            <p class="card-sense">Sense 1: Utterance, spoken word</p>
+            <p class="card-cite">Gundert (1872) · p. 312</p>
+          </div>
+        </div>
+        <div class="floating-card card-2">
+          <div class="card-header">
+            <span class="card-icon">🔗</span>
+            <span class="card-title">Synset</span>
+          </div>
+          <div class="card-body">
+            <p class="card-sense">WordNet 05631689-n</p>
+            <p class="card-cite">5 hypernyms · 12 relations</p>
+          </div>
+        </div>
+        <div class="floating-card card-3">
+          <div class="card-header">
+            <span class="card-icon">🎯</span>
+            <span class="card-title">CEFR B2</span>
+          </div>
+          <div class="card-body">
+            <p class="card-sense">Upper-intermediate</p>
+            <p class="card-cite">Domain: Communication</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Value Props -->
+    <section class="section section-gray" id="features" aria-labelledby="features-title">
+      <div class="section-container">
+        <header class="section-intro">
+          <h2 id="features-title">Why Olam Matters</h2>
+          <p class="section-lead">Bridging 150 years of Malayalam lexicography with modern standards, open APIs, and transparent governance.</p>
+        </header>
+        
+        <div class="features-grid">
+          <article class="feature-card">
+            <div class="feature-icon" aria-hidden="true">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                <rect x="4" y="4" width="24" height="24" rx="4" stroke="currentColor" stroke-width="2"/>
+                <path d="M10 16h12M16 10v12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <h3>Citation-Backed Trust</h3>
+            <p>Every definition traces to Gundert, Bailey, Sabdatharavali, or vetted community contributions. See the source, verify the claim, trust the data.</p>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon" aria-hidden="true">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                <circle cx="16" cy="16" r="10" stroke="currentColor" stroke-width="2"/>
+                <circle cx="16" cy="16" r="2" fill="currentColor"/>
+                <path d="M16 6v4M16 22v4M6 16h4M22 16h4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <h3>Semantic Exploration</h3>
+            <p>WordNet-powered graphs reveal synonyms, hypernyms, semantic domains, and cross-lingual links. Navigate concepts, not just words.</p>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon" aria-hidden="true">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                <path d="M8 4h16a4 4 0 0 1 4 4v16a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V8a4 4 0 0 1 4-4z" stroke="currentColor" stroke-width="2"/>
+                <path d="M12 14h8M12 18h6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <h3>Morphology Integration</h3>
+            <p>Automatic paradigm tables, spelling validators, and inflection lookups powered by mlmorph. Search any form, land on the lemma.</p>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon" aria-hidden="true">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                <rect x="6" y="10" width="20" height="16" rx="2" stroke="currentColor" stroke-width="2"/>
+                <path d="M6 14h20M12 10V6M20 10V6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+            </div>
+            <h3>Standards-Aligned Data</h3>
+            <p>Native LIFT encoding, TEI Lex-0 provenance, OntoLex-Lemon exports, and WordNet mappings. Interoperable, future-proof, research-grade.</p>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon" aria-hidden="true">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                <circle cx="10" cy="10" r="3" stroke="currentColor" stroke-width="2"/>
+                <circle cx="22" cy="10" r="3" stroke="currentColor" stroke-width="2"/>
+                <circle cx="16" cy="22" r="3" stroke="currentColor" stroke-width="2"/>
+                <path d="M12 11l8 0M13 21l-1-9M19 21l1-9" stroke="currentColor" stroke-width="2"/>
+              </svg>
+            </div>
+            <h3>Community Governance</h3>
+            <p>Transparent contributor workflows, linguist review panels, and provenance tracking. Every edit documented, every source cited, every volunteer celebrated.</p>
+          </article>
+
+          <article class="feature-card">
+            <div class="feature-icon" aria-hidden="true">
+              <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                <rect x="4" y="8" width="24" height="18" rx="2" stroke="currentColor" stroke-width="2"/>
+                <path d="M4 14h24M12 8v18" stroke="currentColor" stroke-width="2"/>
+                <circle cx="18" cy="19" r="2" fill="currentColor"/>
+              </svg>
+            </div>
+            <h3>Learning Ecosystem</h3>
+            <p>CEFR-tagged vocabulary, flashcard generation, pronunciation guides, and domain-specific word lists. Built for classrooms, self-learners, and linguists.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Sample Entry Deep Dive -->
+    <section class="section" id="explore" aria-labelledby="explore-title">
+      <div class="section-container">
+        <header class="section-intro">
+          <h2 id="explore-title">Anatomy of an Entry · <span class="mal">വാക്ക്</span></h2>
+          <p class="section-lead">Each entry harmonizes bilingual glosses, monolingual definitions, morphological inflections, example sentences, collocations, semantic domains, and multi-source citations.</p>
+        </header>
+
+        <article class="entry-showcase">
+          <div class="entry-head">
+            <div class="entry-headword-block">
+              <h3 class="entry-headword">
+                <span class="mal">വാക്ക്</span>
+                <span class="entry-ipa">/ʋaːkː/</span>
+              </h3>
+              <div class="entry-tags">
+                <span class="tag tag-accent">CEFR B2</span>
+                <span class="tag tag-teal">SIL 24.1 · Communication</span>
+                <span class="tag">LIFT olam-0004821</span>
+                <span class="tag tag-sources">5 dictionaries</span>
+              </div>
+            </div>
+            <button class="audio-btn" aria-label="Play pronunciation">
+              <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                <path d="M5 7v6l5-3-5-3z" fill="currentColor"/>
+                <path d="M12 8c1 .5 2 1.5 2 4s-1 3.5-2 4M14 6c2 1 3 3 3 6s-1 5-3 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Morphology Alert -->
+          <div class="morphology-alert">
+            <svg class="morph-icon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <circle cx="10" cy="10" r="8" stroke="currentColor" stroke-width="2"/>
+              <path d="M10 6v4M10 13v1" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            <div class="morph-content">
+              <strong>Searched for inflected form?</strong>
+              <p>If you searched <span class="mal">വാക്കിൽ</span> (locative case), this is the root lemma <span class="mal">വാക്ക്</span> (nominative). See morphology table below for all forms.</p>
+            </div>
+          </div>
+
+          <!-- Etymology -->
+          <div class="etymology-section">
+            <h4 class="etymology-title">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                <path d="M8 2v12M8 2l3 3M8 2L5 5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+              Etymology
+            </h4>
+            <p class="etymology-text">
+              <span class="mal">വാക്ക്</span> ← Sanskrit <em>vāc</em> (वाच्) "speech, voice" ← Proto-Indo-European <em>*wekʷ-</em> "to speak"
+              <br/>
+              <small>Cognates: Latin <em>vox</em>, English <em>voice</em>, Greek <em>ἔπος</em> (epos)</small>
+            </p>
+          </div>
+
+          <!-- Dictionary Sources with Multiple Senses Each -->
+          <div class="dictionary-sources">
+            <div class="dict-source">
+              <div class="dict-source-header">
+                <h4 class="dict-source-title">Gundert (1872) · Malayalam–English Dictionary</h4>
+                <span class="dict-meta">p. 312 · Basel Mission Press</span>
+              </div>
+              <div class="dict-senses">
+              <div class="dict-senses">
+                <div class="dict-sense">
+                  <span class="sense-number">1.</span>
+                  <div class="sense-content">
+                    <p class="sense-def">A word, speech, saying</p>
+                    <p class="sense-example mal">വാക്കു പറക — to speak</p>
+                  </div>
+                </div>
+                <div class="dict-sense">
+                  <span class="sense-number">2.</span>
+                  <div class="sense-content">
+                    <p class="sense-def">Promise, assurance</p>
+                    <p class="sense-example mal">വാക്കു കൊടുക്ക — to give one's word</p>
+                  </div>
+                </div>
+                <div class="dict-sense">
+                  <span class="sense-number">3.</span>
+                  <div class="sense-content">
+                    <p class="sense-def">Command, order</p>
+                    <p class="sense-example mal">രാജാവിന്റെ വാക്കു — the king's command</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="dict-source">
+              <div class="dict-source-header">
+                <h4 class="dict-source-title">Sabdatharavali (1930) · ശ്രീകണ്ഠേശ്വരം പത്മനാഭ പിള്ള</h4>
+                <span class="dict-meta">Vol. 1 · Entry വചനം</span>
+              </div>
+              <div class="dict-senses">
+                <div class="dict-sense">
+                  <span class="sense-number">1.</span>
+                  <div class="sense-content">
+                    <p class="sense-def mal">പറയുന്നത്, ഉച്ചരിക്കുന്നത്</p>
+                    <p class="sense-def-trans"><em>What is spoken, uttered</em></p>
+                  </div>
+                </div>
+                <div class="dict-sense">
+                  <span class="sense-number">2.</span>
+                  <div class="sense-content">
+                    <p class="sense-def mal">ഭംഗി: മാധുര്യം, അക്ഷരവ്യക്തി, സുസ്വരം, പദസ്ഫുടത, ലഘുത, സ്ഥൈര്യം ഇവയ്ക്കു 'വചോഗുണഷൾക്കം' എന്നു പേർ</p>
+                    <p class="sense-def-trans"><em>Excellence: sweetness, clarity, melodiousness, distinctness, brevity, and steadfastness—collectively 'vachōguṇaṣaṭkaṃ'</em></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="dict-source">
+              <div class="dict-source-header">
+                <h4 class="dict-source-title">Bailey (1846) · Malayalam–English Dictionary</h4>
+                <span class="dict-meta">C.M.S. Press, Kottayam</span>
+              </div>
+              <div class="dict-senses">
+                <div class="dict-sense">
+                  <span class="sense-number">1.</span>
+                  <div class="sense-content">
+                    <p class="sense-def">Word, speech</p>
+                  </div>
+                </div>
+                <div class="dict-sense">
+                  <span class="sense-number">2.</span>
+                  <div class="sense-content">
+                    <p class="sense-def">A promise</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="dict-source dict-source-compact">
+              <div class="dict-source-header">
+                <h4 class="dict-source-title">Datuk Corpus (Contemporary) · Malayalam–Malayalam</h4>
+                <span class="dict-meta">83k headwords · Community-sourced</span>
+              </div>
+              <div class="dict-senses">
+                <div class="dict-sense">
+                  <span class="sense-number">1.</span>
+                  <div class="sense-content">
+                    <p class="sense-def mal">വാഗ്ദാനം, ഉറപ്പ്</p>
+                    <p class="sense-def-trans"><em>Promise, assurance</em></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="dict-source dict-source-compact">
+              <div class="dict-source-header">
+                <h4 class="dict-source-title">WordNet Synset 05631689-n</h4>
+                <span class="dict-meta">Princeton WordNet · Global WordNet</span>
+              </div>
+              <div class="dict-senses">
+                <div class="dict-sense">
+                  <div class="sense-content">
+                    <p class="sense-def">Speech act, linguistic unit expressing meaning</p>
+                    <p class="sense-relations">
+                      <strong>Hypernyms:</strong> communication, language unit
+                      <br/>
+                      <strong>Hyponyms:</strong> utterance, vocalization, spoken word
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Related Entries -->
+          <div class="related-section">
+            <h4 class="related-title">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                <circle cx="5" cy="5" r="3" stroke="currentColor" stroke-width="2"/>
+                <circle cx="11" cy="11" r="3" stroke="currentColor" stroke-width="2"/>
+                <line x1="7" y1="7" x2="9" y2="9" stroke="currentColor" stroke-width="2"/>
+              </svg>
+              Related Entries (Semantic)
+            </h4>
+            <div class="related-grid">
+              <div class="related-card">
+                <h5>Synonyms</h5>
+                <div class="related-links">
+                  <a href="#" class="mal">ശബ്ദം</a>
+                  <a href="#" class="mal">പദം</a>
+                  <a href="#" class="mal">വചനം</a>
+                  <a href="#" class="mal">ഉക്തി</a>
+                  <a href="#" class="mal">വാഗ്ദാനം</a>
+                </div>
+              </div>
+              <div class="related-card">
+                <h5>Antonyms</h5>
+                <div class="related-links">
+                  <a href="#" class="mal">നിശബ്ദത</a>
+                  <a href="#" class="mal">മൗനം</a>
+                </div>
+              </div>
+              <div class="related-card">
+                <h5>Hypernyms</h5>
+                <div class="related-links">
+                  <a href="#" class="mal">ഭാഷ</a>
+                  <a href="#" class="mal">സംഭാഷണം</a>
+                </div>
+              </div>
+              <div class="related-card">
+                <h5>See also</h5>
+                <div class="related-links">
+                  <a href="#" class="mal">വാക്യം</a>
+                  <a href="#" class="mal">വാചകം</a>
+                  <a href="#" class="mal">വാചാലം</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Spelling Corrections -->
+          <div class="spelling-corrections">
+            <h4 class="corrections-title">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                <circle cx="8" cy="8" r="6" stroke="currentColor" stroke-width="2"/>
+                <path d="M5 8l2 2 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+              Spelling Guidance
+            </h4>
+            <div class="correction-content">
+              <div class="correct-spelling">
+                <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
+                  <circle cx="10" cy="10" r="8" fill="#10b981"/>
+                  <path d="M6 10l3 3 5-5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+                <div class="correct-text">
+                  <span class="correct-label">Correct spelling</span>
+                  <span class="correct-word mal">വാക്ക്</span>
+                </div>
+              </div>
+              <div class="incorrect-spellings">
+                <span class="incorrect-label">Common errors:</span>
+                <div class="incorrect-list">
+                  <div class="incorrect-item">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                      <circle cx="8" cy="8" r="6" stroke="#ef4444" stroke-width="2"/>
+                      <path d="M6 6l4 4M10 6l-4 4" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                    <span class="incorrect-word mal">വാക്കു്</span>
+                    <span class="incorrect-reason">Extra vowel sign (ു്)</span>
+                  </div>
+                  <div class="incorrect-item">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                      <circle cx="8" cy="8" r="6" stroke="#ef4444" stroke-width="2"/>
+                      <path d="M6 6l4 4M10 6l-4 4" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                    <span class="incorrect-word mal">വാക്കു</span>
+                    <span class="incorrect-reason">Missing anusvara (്)</span>
+                  </div>
+                  <div class="incorrect-item">
+                    <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                      <circle cx="8" cy="8" r="6" stroke="#ef4444" stroke-width="2"/>
+                      <path d="M6 6l4 4M10 6l-4 4" stroke="#ef4444" stroke-width="2" stroke-linecap="round"/>
+                    </svg>
+                    <span class="incorrect-word mal">വാക്</span>
+                    <span class="incorrect-reason">Missing geminate ക്ക</span>
+                  </div>
+                </div>
+              </div>
+              <p class="spelling-help">
+                <strong>Powered by mlmorph:</strong> Automatic spelling validation using morphological analyzer. 
+                <a href="#">Learn about Malayalam orthography →</a>
+              </p>
+            </div>
+          </div>
+
+          <!-- Similar Spellings (No Semantic Relation) -->
+          <div class="spelling-variants">
+            <h4 class="spelling-title">
+              <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                <path d="M2 8h12M6 4l-2 8M10 4l2 8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              </svg>
+              Similar Spellings (Orthographic)
+            </h4>
+            <p class="spelling-note">Words with similar spelling but different meanings—not semantically related:</p>
+            <div class="spelling-links">
+              <a href="#" class="spelling-link">
+                <span class="mal">വക്ക്</span>
+                <span class="spelling-def">side, behalf</span>
+              </a>
+              <a href="#" class="spelling-link">
+                <span class="mal">വിക്ക്</span>
+                <span class="spelling-def">hiccup</span>
+              </a>
+              <a href="#" class="spelling-link">
+                <span class="mal">വെക്കം</span>
+                <span class="spelling-def">heat, warmth</span>
+              </a>
+              <a href="#" class="spelling-link">
+                <span class="mal">വാക്കം</span>
+                <span class="spelling-def">hook (variant)</span>
+              </a>
+            </div>
+          </div>
+
+          <div class="entry-grid">
+            <div class="entry-panel">
+              <h4 class="panel-title">Example Sentences</h4>
+              <ul class="example-list">
+                <li>
+                  <p class="example-mal mal">വാക്ക് പാലിക്കുക എന്നത് നാട്ടിന്റെ അഭിമാനം.</p>
+                  <p class="example-en">"Keeping one's word is the pride of our land."</p>
+                  <p class="example-source">Govt Archive (2023)</p>
+                </li>
+                <li>
+                  <p class="example-mal mal">അവൻ വാക്ക് തെറ്റാതെ കരാർ പൂർത്തിയാക്കി.</p>
+                  <p class="example-en">"He honoured his word and completed the agreement."</p>
+                  <p class="example-source">Business Corpus</p>
+                </li>
+              </ul>
+            </div>
+
+            <div class="entry-panel">
+              <h4 class="panel-title">Morphology · Inflection Table</h4>
+              <table class="inflection-table">
+                <thead>
+                  <tr>
+                    <th>Case</th>
+                    <th>Singular</th>
+                    <th>Plural</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Nominative</td>
+                    <td class="mal">വാക്ക്</td>
+                    <td class="mal">വാക്കുകൾ</td>
+                  </tr>
+                  <tr>
+                    <td>Accusative</td>
+                    <td class="mal">വാക്കിനെ</td>
+                    <td class="mal">വാക്കുകളെ</td>
+                  </tr>
+                  <tr>
+                    <td>Dative</td>
+                    <td class="mal">വാക്കിന്</td>
+                    <td class="mal">വാക്കുകൾക്ക്</td>
+                  </tr>
+                  <tr>
+                    <td>Locative</td>
+                    <td class="mal">വാക്കിൽ</td>
+                    <td class="mal">വാക്കുകളിൽ</td>
+                  </tr>
+                </tbody>
+              </table>
+              <p class="panel-note">Generated via <code>mlmorph</code> with manual verification</p>
+            </div>
+
+            <div class="entry-panel">
+              <h4 class="panel-title">Collocations & Idioms</h4>
+              <ul class="collocation-list">
+                <li>
+                  <span class="colloc-mal mal">വാക്ക് പാലിക്കുക</span>
+                  <span class="colloc-en">keep one's word</span>
+                </li>
+                <li>
+                  <span class="colloc-mal mal">വാക്ക് ഒതുക്കം</span>
+                  <span class="colloc-en">economy of words</span>
+                </li>
+                <li>
+                  <span class="colloc-mal mal">വാക്ക് തെറ്റുക</span>
+                  <span class="colloc-en">break a promise</span>
+                </li>
+                <li>
+                  <span class="colloc-mal mal">വാക്ക് കൊടുക്കുക</span>
+                  <span class="colloc-en">give one's word</span>
+                </li>
+              </ul>
+            </div>
+
+            <div class="entry-panel">
+              <h4 class="panel-title">Semantic Relations</h4>
+              <div class="relation-group">
+                <strong>Synonyms:</strong>
+                <span class="mal">ശബ്ദം</span>, <span class="mal">പദം</span>, <span class="mal">വചനം</span>
+              </div>
+              <div class="relation-group">
+                <strong>Hypernyms:</strong>
+                Communication unit, Linguistic expression
+              </div>
+              <div class="relation-group">
+                <strong>Domain:</strong>
+                SIL 24.1 Communication
+              </div>
+              <a href="#" class="relation-explore">Explore semantic graph →</a>
+            </div>
+
+            <div class="entry-panel panel-meta">
+              <h4 class="panel-title">Provenance & Governance</h4>
+              <ul class="meta-list">
+                <li><strong>Primary sources:</strong> Gundert (1872), Bailey (1849), Sabdatharavali (1930)</li>
+                <li><strong>Last review:</strong> 2025-10-22 · Linguist panel (3 reviewers)</li>
+                <li><strong>Community score:</strong> 4.8 / 5 (648 contributor checks)</li>
+                <li><strong>LIFT GUID:</strong> <code>olam-0004821</code></li>
+              </ul>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <!-- VisuWords Demo -->
+    <section class="section section-visuwords" aria-labelledby="visuwords-title">
+      <div class="section-container">
+        <header class="section-intro">
+          <h2 id="visuwords-title">VisuWords Explorer · Semantic Navigation</h2>
+          <p class="section-lead">Interactive graphs powered by WordNet alignments. Traverse synonyms, hypernyms, semantic domains, and cross-lingual links in real time.</p>
+        </header>
+
+        <div class="visuwords-wrapper">
+          <div class="visuwords-canvas-container">
+            <div class="graph-canvas" aria-label="Interactive semantic graph">
+              <svg class="graph-edges" viewBox="0 0 800 600" aria-hidden="true">
+                <defs>
+                  <linearGradient id="edge-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                    <stop offset="0%" style="stop-color:rgb(99,102,241);stop-opacity:0.3" />
+                    <stop offset="100%" style="stop-color:rgb(20,184,166);stop-opacity:0.3" />
+                  </linearGradient>
+                </defs>
+                <line x1="400" y1="300" x2="180" y2="180" stroke="url(#edge-gradient)" stroke-width="3"/>
+                <line x1="400" y1="300" x2="620" y2="190" stroke="url(#edge-gradient)" stroke-width="3"/>
+                <line x1="400" y1="300" x2="400" y2="120" stroke="url(#edge-gradient)" stroke-width="3"/>
+                <line x1="400" y1="300" x2="350" y2="460" stroke="url(#edge-gradient)" stroke-width="3"/>
+                <line x1="400" y1="300" x2="600" y2="420" stroke="url(#edge-gradient)" stroke-width="3"/>
+                <line x1="400" y1="300" x2="200" y2="400" stroke="url(#edge-gradient)" stroke-width="2"/>
+              </svg>
+              
+              <div class="graph-node node-center" data-relation="root">
+                <div class="node-icon">🎯</div>
+                <div class="node-content">
+                  <span class="node-label mal">വാക്ക്</span>
+                  <span class="node-meta">synset 05631689-n</span>
+                </div>
+              </div>
+
+              <div class="graph-node node-1" data-relation="hypernym">
+                <div class="node-icon">📢</div>
+                <div class="node-content">
+                  <span class="node-label mal">ഭാഷണം</span>
+                  <span class="node-meta">speech act</span>
+                </div>
+              </div>
+
+              <div class="graph-node node-2" data-relation="synonym">
+                <div class="node-icon">🤝</div>
+                <div class="node-content">
+                  <span class="node-label mal">വാഗ്ദാനം</span>
+                  <span class="node-meta">promise</span>
+                </div>
+              </div>
+
+              <div class="graph-node node-3" data-relation="hypernym">
+                <div class="node-icon">💬</div>
+                <div class="node-content">
+                  <span class="node-label mal">ഉച്ചാരണം</span>
+                  <span class="node-meta">utterance</span>
+                </div>
+              </div>
+
+              <div class="graph-node node-4" data-relation="related">
+                <div class="node-icon">📝</div>
+                <div class="node-content">
+                  <span class="node-label mal">പദം</span>
+                  <span class="node-meta">lexeme</span>
+                </div>
+              </div>
+
+              <div class="graph-node node-5" data-relation="synonym">
+                <div class="node-icon">🔤</div>
+                <div class="node-content">
+                  <span class="node-label mal">ശബ്ദം</span>
+                  <span class="node-meta">sound/word</span>
+                </div>
+              </div>
+
+              <div class="graph-node node-6" data-relation="related">
+                <div class="node-icon">✍️</div>
+                <div class="node-content">
+                  <span class="node-label mal">വചനം</span>
+                  <span class="node-meta">statement</span>
+                </div>
+              </div>
+            </div>
+            
+            <div class="graph-legend">
+              <div class="legend-item">
+                <span class="legend-dot legend-root"></span>
+                <span>Root Word</span>
+              </div>
+              <div class="legend-item">
+                <span class="legend-dot legend-hypernym"></span>
+                <span>Hypernym</span>
+              </div>
+              <div class="legend-item">
+                <span class="legend-dot legend-synonym"></span>
+                <span>Synonym</span>
+              </div>
+              <div class="legend-item">
+                <span class="legend-dot legend-related"></span>
+                <span>Related</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="visuwords-controls">
+            <div class="control-card">
+              <h4 class="control-title">Part of Speech</h4>
+              <div class="control-pills">
+                <button class="control-pill active">All</button>
+                <button class="control-pill">Noun</button>
+                <button class="control-pill">Verb</button>
+                <button class="control-pill">Adjective</button>
+              </div>
+            </div>
+            
+            <div class="control-card">
+              <h4 class="control-title">Relation Type</h4>
+              <div class="control-pills">
+                <button class="control-pill active">All</button>
+                <button class="control-pill">Hypernym</button>
+                <button class="control-pill">Synonym</button>
+                <button class="control-pill">Meronym</button>
+              </div>
+            </div>
+            
+            <div class="control-card">
+              <h4 class="control-title">Semantic Domain</h4>
+              <div class="control-pills">
+                <button class="control-pill">Communication</button>
+                <button class="control-pill">Language</button>
+                <button class="control-pill">Culture</button>
+              </div>
+            </div>
+            
+            <div class="control-card control-card-export">
+              <h4 class="control-title">Export Graph</h4>
+              <div class="control-pills">
+                <button class="control-pill">
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <path d="M8 2v8M8 10l3-3M8 10L5 7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    <path d="M2 12v2h12v-2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                  </svg>
+                  JSON-LD
+                </button>
+                <button class="control-pill">
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <path d="M8 2v8M8 10l3-3M8 10L5 7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    <path d="M2 12v2h12v-2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                  </svg>
+                  CSV
+                </button>
+                <button class="control-pill">
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+                    <path d="M8 2v8M8 10l3-3M8 10L5 7" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                    <path d="M2 12v2h12v-2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+                  </svg>
+                  SVG
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Standards & Interop -->
+    <section class="section" id="standards" aria-labelledby="standards-title">
+      <div class="section-container">
+        <header class="section-intro">
+          <h2 id="standards-title">Standards & Interoperability</h2>
+          <p class="section-lead">Olam embraces international lexical standards, ensuring data portability, API interoperability, and long-term preservation.</p>
+        </header>
+
+        <div class="standards-grid">
+          <article class="standard-card">
+            <div class="standard-badge">WordNet</div>
+            <h3>Princeton WordNet / Global WordNet</h3>
+            <p>Synset-based semantic networks capturing senses, glosses, and relations. Mappings enable VisuWords exploration and multilingual expansion via IndoWordNet.</p>
+            <a href="#" class="standard-link">Learn more →</a>
+          </article>
+
+          <article class="standard-card">
+            <div class="standard-badge">SIL LIFT</div>
+            <h3>Lexicon Interchange FormaT</h3>
+            <p>XML schema supporting multi-script lemmas, inflections, senses, semantic domains, and audit trails. Native format for Olam's contributor workflows.</p>
+            <a href="#" class="standard-link">Learn more →</a>
+          </article>
+
+          <article class="standard-card">
+            <div class="standard-badge">TEI Lex-0</div>
+            <h3>Text Encoding Initiative Dictionaries</h3>
+            <p>Guidelines for encoding historical entries with etymology, citations, and usage notes. Preserves provenance for Gundert/Bailey transcripts.</p>
+            <a href="#" class="standard-link">Learn more →</a>
+          </article>
+
+          <article class="standard-card">
+            <div class="standard-badge">OntoLex</div>
+            <h3>OntoLex-Lemon</h3>
+            <p>RDF/OWL standard for lexicons as linked data. Exports enable Wikidata alignment, SPARQL queries, and knowledge graph integration.</p>
+            <a href="#" class="standard-link">Learn more →</a>
+          </article>
+
+          <article class="standard-card">
+            <div class="standard-badge">ISO 24613</div>
+            <h3>Lexical Markup Framework</h3>
+            <p>International standard for representing machine-readable lexicons. Supports API-driven discovery and cross-platform tooling.</p>
+            <a href="#" class="standard-link">Learn more →</a>
+          </article>
+
+          <article class="standard-card">
+            <div class="standard-badge">SIL Domains</div>
+            <h3>Semantic Domains</h3>
+            <p>Hierarchical vocabulary (Life, Community, Culture) for tagging senses. Enables thematically grouped browsing and faceted discovery.</p>
+            <a href="#" class="standard-link">Learn more →</a>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Community & Governance -->
+    <section class="section section-community" id="community" aria-labelledby="community-title">
+      <div class="section-container">
+        <header class="section-intro">
+          <h2 id="community-title">Community-Driven, Expert-Reviewed</h2>
+          <p class="section-lead">Olam thrives on transparent governance, volunteer contributions, and linguist oversight. Every role matters, every edit is documented.</p>
+        </header>
+
+        <div class="community-roles">
+          <article class="role-card">
+            <div class="role-icon">👥</div>
+            <h3>Contributors</h3>
+            <p>Add entries, suggest definitions, upload audio, and validate examples. Earn reputation through quality contributions and peer review.</p>
+            <div class="role-stat">
+              <strong>2,847</strong> active volunteers
+            </div>
+          </article>
+
+          <article class="role-card">
+            <div class="role-icon">🎓</div>
+            <h3>Linguist Reviewers</h3>
+            <p>Validate morphology, adjudicate spelling disputes, assign semantic domains, and verify citations. Expert panel ensures academic rigor.</p>
+            <div class="role-stat">
+              <strong>23</strong> linguist panel members
+            </div>
+          </article>
+
+          <article class="role-card">
+            <div class="role-icon">🔧</div>
+            <h3>Data Engineers</h3>
+            <p>Maintain ETL pipelines from gpura, Gundert Portal, Sayahna Foundation; harden LIFT/TEI encoding; optimize search relevance.</p>
+            <div class="role-stat">
+              <strong>6</strong> core maintainers
+            </div>
+          </article>
+
+          <article class="role-card">
+            <div class="role-icon">📖</div>
+            <h3>Educators</h3>
+            <p>Curate CEFR-aligned word lists, design quizzes, create pronunciation guides, and build classroom-ready materials.</p>
+            <div class="role-stat">
+              <strong>142</strong> educator partners
+            </div>
+          </article>
+        </div>
+
+        <div class="governance-principles">
+          <h3>Governance Principles</h3>
+          <ul class="principles-list">
+            <li><strong>Transparent provenance:</strong> Every entry cites sources; every edit logs contributors and timestamps.</li>
+            <li><strong>Peer review workflows:</strong> Community submissions enter staging; linguist reviewers validate before publication.</li>
+            <li><strong>Open APIs & data dumps:</strong> Full LIFT/TEI exports quarterly; REST + GraphQL APIs for programmatic access.</li>
+            <li><strong>Inclusive participation:</strong> Multilingual documentation, accessible UI, and onboarding mentorship for new volunteers.</li>
+            <li><strong>Sustainability funding:</strong> Grant-supported infrastructure; no ads, no paywalls, perpetual open access.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA & Roadmap -->
+    <section class="section section-cta" aria-labelledby="cta-title">
+      <div class="section-container-narrow">
+        <h2 id="cta-title">Join the Journey</h2>
+        <p class="cta-lead">Olam is in active development. Sign up for beta access, contribute to the corpus, or partner with us to shape the future of Malayalam lexicography.</p>
+        <div class="cta-actions">
+          <button class="cta-button cta-button-primary">Request Beta Access</button>
+          <button class="cta-button cta-button-secondary">Become a Contributor</button>
+        </div>
+        
+        <div class="roadmap">
+          <h3>Development Roadmap</h3>
+          <div class="timeline">
+            <div class="timeline-item">
+              <div class="timeline-marker timeline-marker-done"></div>
+              <div class="timeline-content">
+                <h4>Q4 2025 · Phase 1 Complete</h4>
+                <p>Gundert + Bailey transcript ingestion; LIFT schema v1; contributor portal alpha.</p>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-marker timeline-marker-active"></div>
+              <div class="timeline-content">
+                <h4>Q1 2026 · Phase 2 In Progress</h4>
+                <p>Sabdatharavali integration; mlmorph morphology hooks; WordNet alignment MVP; VisuWords prototype.</p>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                <h4>Q2 2026 · Phase 3 Planned</h4>
+                <p>Public beta launch; REST + GraphQL APIs; CEFR tagging; learner console; mobile apps refresh.</p>
+              </div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-marker"></div>
+              <div class="timeline-content">
+                <h4>Q3 2026 · Phase 4 Vision</h4>
+                <p>Full TEI Lex-0 exports; OntoLex-Lemon linked data; Wikidata sync; orthography services; educator toolkit.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-container">
+      <div class="footer-brand">
+        <div class="footer-logo">
+          <span class="footer-logo-mal mal">ഓളം</span>
+        </div>
+        <p class="footer-tagline">The Authentic Malayalam Lexicon</p>
+      </div>
+      
+      <div class="footer-links">
+        <div class="footer-column">
+          <h4>Platform</h4>
+          <a href="#">Web Dictionary</a>
+          <a href="#">Mobile Apps</a>
+          <a href="#">Browser Extensions</a>
+          <a href="#">API Documentation</a>
+        </div>
+        <div class="footer-column">
+          <h4>Resources</h4>
+          <a href="#">Contributor Guide</a>
+          <a href="#">Standards Docs</a>
+          <a href="#">Research Papers</a>
+          <a href="#">Data Exports</a>
+        </div>
+        <div class="footer-column">
+          <h4>Community</h4>
+          <a href="#">Forum</a>
+          <a href="#">GitHub</a>
+          <a href="#">Discord</a>
+          <a href="#">Newsletter</a>
+        </div>
+        <div class="footer-column">
+          <h4>About</h4>
+          <a href="#">Mission</a>
+          <a href="#">Team</a>
+          <a href="#">Partners</a>
+          <a href="#">Contact</a>
+        </div>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>© 2025 Indic Digital Archive Foundation · Licensed under CC BY-SA 4.0</p>
+      <p class="footer-standards">Standards: WordNet · SIL LIFT · TEI Lex-0 · OntoLex-Lemon · ISO 24613</p>
+    </div>
+  </footer>
+</body>
+</html>
