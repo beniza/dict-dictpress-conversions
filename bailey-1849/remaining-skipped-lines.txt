@@ -1,0 +1,388 @@
+# Remaining Skipped Lines from Bailey's Dictionary
+# (After phrase headword recovery)
+#
+# Total lines in this file: 373
+# Lines recovered as phrases: 685
+#
+# These entries require manual review and correction:
+# - Entries with special formatting or punctuation
+# - Malayalam headwords
+# - Entries with unusual structure
+# - Metadata or non-entry lines
+#
+# Format: [Line Number] Original Line
+#==============================================================================
+
+[  820] Alas! interj. ഒ, അയ്യൊ, ഹാ കഷ്ടം.
+[ 2588] Bedazzle, 2, 4, അധികവെളിച്ചം കൊണ്ട കണ്ണിമപ്പിക്കുന്നു, കണ്കൊച്ചിക്കുന്നു.
+[ 2634] Been, The part. pret. of To be, ആയിരുന്ന, ആയ.
+[ 2642] Beeves, s. plural. of Beef, മാടുകൾ, കരിങ്കന്നകൾ.
+[ 3505] Bombastic, വമ്പുള്ള, ഇരച്ചിലുള്ള.
+[ 3741] കാരൻ, മുഷ്ടി യുദ്ധം ചെയ്യുന്നവൻ.
+[ 3997] Bred, Part. pass. from To breed, വളൎത്തിയ, വളക്കപ്പെട്ട.
+[ 4233] Brock, or badger, s, തകസ.
+[ 4251] Broken, part. pass. of To break, ഉടഞ്ഞ, ഒടിഞ്ഞ, മുറിഞ്ഞ.
+[ 4295] Brought, part. pass. of To bring, കൊണ്ടുവരപ്പെട്ട, കൊണ്ടുവന്ന.
+[ 4509] Bungle, s.ഭടവെല, പടുമപ്പണി; പിഴ,തപ്പവെല.
+[ 4707] Buzz, v. n. (ൟച്ചപൊലെ മൂളുന്നു; മന്ത്രിക്കുന്നു; കുശുകുശുക്കുന്നു, ചെവിയിൽപറയുന്നു; ഗംഭീരമായി ശബ്ദിക്കുന്നു; പിറുപിറുക്കുന്നു.
+[ 4721] By-concernment, പ്രധാനമല്ലാത്ത കാൎയ്യം.
+[ 4753] C Has two sounds; one like k, as call,clock; the other as s, as cessation,cinder. It sounds like k before a,o, u, or a consonant; and like sbefore e, i and y.
+[ 4954] Came, pret. of To come, വന്നു.
+[ 5036] Cannot, Of can and not, കഴികയില്ല,കൂടാ, പാങ്ങില്ല, വഹിയ.
+[ 5405] To cast off; വിട്ടുകളയുന്നു ; നീക്കികളയുന്നു; ഊരികളയുന്നു.
+[ 5467] Cat-o'-nine-tails, ഒമ്പത വാറുള്ള ചമ്മട്ടി.
+[ 5543] The holy catholic church. പൊതുവിലുള്ള ശുദ്ധസഭ.
+[ 5571] Caught, part. pass. of To Catch, പിടിക്കപ്പെട്ട.
+[ 5709] Five per cent. നൂറ്റിന അഞ്ചുവീതം.
+[ 5873] Chamlet, s. See Camlet.
+[ 6387] Chose, preter. from To Choose, തെരിഞ്ഞെടുത്ത.
+[ 6389] Chosen, part. pass. from To Choose,തെരിഞ്ഞെടുക്കപ്പെട്ട.
+[ 6419] A chronic disease, എറനാൾ നില്ക്കുന്ന വ്യാധി.
+[ 6503] Cinder, തീക്കനൽ, കരിക്കട്ട.
+[ 6667] Clad, part. pret. from Clothe, ഉടുക്കപ്പെട്ട, വസ്ത്രം ധരിക്കപ്പെട്ട, ധരിക്കപ്പെട്ട.
+[ 6757] Clave, pret. from To Cleave, പിളൎന്നു,പറ്റി, ഒട്ടി.
+[ 6841] Cleft, part. pass. from To Cleave, പിളൎന്ന, കീറിയ.
+[ 6877] A hot climate, ഉഷ്ണദെശം.
+[ 6879] A cold climate, ശീതദെശം.
+[ 6881] A healthy climate, സുഖകരദെശം.
+[ 7013] Clove, pret. of To Cleave, പറ്റി, പിളൎന്നു, വിടൎന്നു.
+[ 7017] Cloven, part, pret. from To Cleave,പിളൎന്ന, വിടൎന്ന.
+[ 7065] Clung, pret. & part. of To Cling, കെട്ടിപ്പിണഞ്ഞ; ചുളുങ്ങിയ, ചുങ്ങിയ, ഉണങ്ങിയ, ശുഷ്കിച്ച.
+[ 7378] To collect himself; വിവശത തീരുന്നു.
+[ 7453] Colours, കൊടി, വിരുതകൊടി.
+[ 7457] ൎണ്ണിക്കുന്നു; ഒഴികഴിവുവരുത്തുന്നു; മറെക്കുന്നു; സ്തുതിച്ച പറയുന്നു. v. n. ലജ്ജ കൊണ്ട മുഖവൎണ്ണം മാറുന്നു.
+[ 7523] o come in for, സമയത്ത എത്തുന്നു.
+[ 7868] Complaint, s: ആവലാധി, സങ്കടം, വഴക്ക, അന്യായം; വ്യാധി; സങ്കടവാക്ക.
+[ 7874] Complaisantly, ഉപചാരത്തൊടെ, പ്രിയഭാവത്തൊടെ.
+[ 8055] A concealed enemy, അനുകൂലശത്രു.
+[ 8675] Conspirator, Conspirer, s, ദുഷ്കൂറ്റുകാരൻ, കൂട്ടുക്കെട്ടിൽ കൂടുന്നവൻ; മത്സരക്കാരൻ; ദ്രോഹി.
+[ 9319] A corporeal being, ദെഹി, ശരീരി.
+[ 9499] Could, The imperfect petenit of Cum, കഴിയുമായിരുന്നു, ആവതായി, പാങ്ങായി.
+[ 9667] Courtesan, Courtezan, s, കാമരേഖ, ഗണിക, വിലമകൾ, തെപിടിച്ചി.
+[ 9699] Cowhage, ചൊറിയണം, നായ്ക്കുരുണ.
+[ 9745] A cradle—hymn, തൊട്ടിൽപാട്ട, താരാ ട്ട.
+[ 9759] Ciraftsmaste s. തന്റെ തൊഴിലിന വിദദ്ധൻ.
+[ 9787] A crank ship, അധികഭാരമെറ്റപ്പെട്ട കപ്പൽ.
+[ 9913] Crept, part. from Creep, നിരങ്ങിയ, ഇഴഞ്ഞ, അരിച്ചനടന്ന.
+[ 9953] A heinous came, മഹാ പാതകം.
+[10151] Cruiser s ഒരു പടക്കപ്പൽ; കൊള്ളക്കപ്പൽ ; കൊള്ളക്കായിട്ട കപ്പൽ കെറി സഞ്ചരിക്കുന്നവൻ.
+[10559] Dad, Daddy, .s അപ്പൻ എന്ന ചെറുപൈതൽ പറയുന്ന വാക്ക.
+[10763] Danghter—in—law, മകന്റെ ഭാൎയ്യ.
+[10775] A dark or cloudy day, ദുൎദ്ദിനം.
+[11291] Deforcement s. ബലാല്ക്കാരമായി എടുക്കുക, ആക്രമം.
+[11295] Deform, Deformed, വിരൂപമുള്ള, കുരൂപമുള്ള; ചന്തക്കെടുള്ള, ഭാഷകെടുള്ള, ലക്ഷണഹീനമായുള്ള.
+[11413] Delf, Delfe, s, കല്ലുവെട്ടംകുഴി; മൺപാത്രം, പിഞ്ഞാണം.
+[11737] Depaved, part.a.കെട്ട, ചീത്ത, വഷളായുള്ള, ദുഷ്ടതയുള്ള; കെടുമ്പുള്ള, ദുരാചാരമുള്ള.
+[11817] A derivative noun, സാധു.
+[12241] Did, The preterit of To Do, ചെയ്തു.
+[12501] Dis, Insep. partacle, വാക്കുകളുടെ ആദിയിൽ വെക്കുന്ന പദം, അ, നിർ, വി, എന്ന പദങ്ങളുടെ അൎത്ഥം.
+[12767] Discursory, a.വ്യവഹാരമുള്ള, ന്യായമുള്ള; ക്രമമുള്ള.
+[13308] Distinguishing a. വിശഷകമായുള്ള, ലക്ഷണം കാണിക്കുന്ന; കീൎത്തിപ്പെടുത്തുന്ന.
+[13334] Distressful, ദുഃഖകരമായുള്ള, പരവശമായുള്ള, ദുഃഖാവസ്ഥയുള്ള.
+[13482] How do you do? എങ്ങിനെ ഇരിക്കുന്നു?
+[13484] I have something to do with him, അവനൊട ഇനിക്ക കാൎയ്യമുണ്ട.
+[13486] I have done with him, അവനൊട ഇനിക്ക ഇനി ഒരു കാൎയ്യമില്ല.
+[13488] I have done with it, ഞാൻ അതിനെ വിട്ടൊഴിഞ്ഞു; ഇനി അത വെണ്ടാ.
+[13492] I shall come, but if I do not, go a—way, ഞാൻ വരും, വരാതിരുന്നാൽ പൊയ്കൊൾക.
+[13575] ങ്ങൾ ; നടപ്പ, കലഹം, അമളി; ഉല്ലാസം, ആഘൊഷം.
+[13629] Done, part. pass. from To Dം, ചെയ്ത ചെയ്യപ്പെട്ട, തീൎന്ന, ആയി.
+[13816] Dranlk, preterit of To Drink, കുടിച്ചു.
+[13958] Drizzelingrain, ചാറൽമഴ, പൊടിമഴ.
+[14000] Drove, pret. of Drive, ആട്ടിക്കളഞ്ഞു, തുരത്തി.
+[14120] Dug, pret. & part. pass. of Dig, കിളച്ചു; കുഴിച്ചു, കുഴിച്ച.
+[14210] Durst, The pret. of Dare, തുനിഞ്ഞു.
+[14420] A central Eclipse, കങ്കണഗ്രഹണം.
+[14652] Eleemosynary, ഭിക്ഷ എടുത്ത കഴിക്കുന്ന, ഭിക്ഷകഴിക്കുന്നു; ധൎമ്മമായി കൊടുക്കപ്പെട്ട.
+[15404] Epidemic, a.ദേശത്തിൽ എല്ലാവൎക്കും Epidemical, വരുന്ന, എല്ലാവൎക്കും പകരുന്ന.
+[15578] Errata, s. plural. of Erratum, അച്ചടിയിലെ തെറ്റുകൾ, പിഴകൾ, ഗ്രന്ഥാന്തരം.
+[15950] കരിക്കുന്നു; വിശേഷതപ്പെടുത്തുന്നു, ഉയൎത്തുന്നു.
+[16282] A man of experience, പഴമക്കാരൻ.
+[16569] Extravasated, a. (രക്തം) കെട്ടിയ.
+[16797] Fair-day, ചന്തദിവസം.
+[17285] Fed, preterit & part. pass. of To Feed, പൊറ്റി, പൊറ്റിയ, തീറ്റി, തീറ്റിയ, പൊഷിപ്പിച്ചു, പൊഷിപ്പിച്ച.
+[17325] Feet, s. plural. of Foot, പാദങ്ങൾ, കാലടികൾ.
+[17353] Fell, preterit of To Fall, വീണു.
+[17395] Felt, preterit of To Feel, തൊട്ടുനൊക്കി, തൊന്നി.
+[17941] A fit or competent person, യൊഗ്യൻ, പാത്രൻ, ഉചിതൻ.
+[18061] Flat—nose, പതിമൂക്ക.
+[18139] Fled, preterit & part. of To Flee, ഒടിപൊയി, ഒടിപൊയ.
+[18201] Flew, preterit of To Fly, പറന്നു.
+[18369] Flown, part. of To Fly, or To Flee, പറന്ന പൊയ, ഒട്ടിപ്പൊയ.
+[18393] Fluidness, ഉരുക്ക, ഒഴുകൽ, ദ്രവം.
+[18397] Flung, part. & pret. of To Fling, എറിഞ്ഞ, എറിഞ്ഞു, കുതറിയ.
+[18511] A folding door, മടക്കുകതക.
+[18513] A folding table, മടക്കുമെശ.
+[18714] Fore—end. s. മുമ്പുറം, തല.
+[18840] Forethought, part. & pret. of To Fore—think, മുൻ നിരൂപിച്ച.
+[19056] Fought, pret. & part. of To Fight, യുദ്ധം ചെയ്തു, യുദ്ധംചെയ്ത.
+[19070] Found, pret. & part. puss. of To Find, കണ്ടെത്തി, കണ്ടെത്തപ്പെട്ട.
+[19204] Fraught, part. pass. of To Freight, ഭാരമെറ്റപ്പെട്ട, ചരക്ക കെറ്റപ്പെട്ട; നിറഞ്ഞ.
+[19334] Friable, എളുപ്പം പൊടിക്കാകുന്ന.
+[19424] Fro adv. പുറകൊട്ട, പിന്നൊട്ട.
+[19486] Frozen, patt. pass. of To Freeze, നീരും മറ്റും ഉറച്ച, പെരുത്ത.
+[19814] Gage, s.ൟട, പണയം.
+[20051] Gave, preterit of To Give, കൊടുത്തു.
+[20087] Geese, s. plural. of Goose, പാത്തകൾ.
+[20260] Getter, s; സമ്പാദിക്കുന്നവൻ, പിറപ്പിക്കുന്നവൻ.
+[20282] Giantess s. രാക്ഷസി.
+[20336] Gilt, s: പൊൻപൂച്ച, നീരാളം.
+[20338] Gilt, part. of Gild, പൊൻപൂശിയ, നീരാളിച്ച.
+[20580] കൊപം ജ്വലിക്കുന്നു; ഉള്ളിൽകൊള്ളുന്നു, ബുദ്ധിചൂടുന്നു.
+[20686] Godship, ദൈവതം, ൟശ്വരത്വം.
+[20716] Gone, part. pret. from To Go, പൊയ, പൊയി, ചെന്നു, ചെന്ന, നടന്ന ; കെട്ടു പൊയി; കഴിഞ്ഞു, കഴിഞ്ഞുപോയി; കൈ ചൊദ്യം വന്ന, കൈമോശം വന്ന; മരിച്ചുപായ.
+[20758] Gorgeously, വെഷകൊലാഹലമായി.
+[20781] Got, pret. of To Get, കിട്ടി.
+[20783] Gotten, part. pass. of To Get, കിട്ടിയ, ലഭിച്ച.
+[20845] Graduate s. ശാസ്ത്രപാഠകശാലയിൽ പദവിലഭിച്ചവൻ.
+[20884] Granddaughter, പൌത്രി; മകന്റെ മകൾ, മകളുടെ മകൾ.
+[21014] Graving s. കൊത്തുപണി.
+[21106] Grew, pret. of To Grow, വളൎന്ന.
+[21220] Grot, or Grotto, s, നിലവറ, ഗഹ്വരം.
+[21234] Ground, pret. a. prt. pass. of To Girind, അരെച്ച, പൊടിച്ചു, പൊട്ടിച്ച.
+[21502] Habitance, അധിവാസം, വാസം, കുടിയിരിപ്പ.
+[21528] Had, pret. & part. pass. of To Have, ഉണ്ടായി, ഉണ്ടായ.
+[21656] Halves, s. p. of Half, പപ്പാതി.
+[22099] Heard, pret. of To Hear, കെട്ടു, ശ്രവിച്ചു.
+[22239] s lay by the heels, വിലങ്ങിൽ ഇടുന്നു.
+[22273] Held, pret. & part. paass. of To Hold, പിടിച്ചു, പിടിച്ച.
+[22333] A hen—pecked husband, സ്രീജിതൻ.
+[23058] Hove, pret. of To Heave, ഉയൎത്തി.
+[23164] Hug', s. ' തഴുകൽ, കെട്ടിപിടിത്തം, ആലിംഗനം, ആശ്ലേഷം.
+[23194] Humble, ധ, വിനയമുള്ള, താണുയുള്ള, വണക്കമുള്ള, അടക്കമുള്ള, എളിമയുള്ള .
+[23514] Idol, $, വിഗ്രഹം, ബിംബം.
+[23678] Illimitedness u. അതിരില്ലായ്മ, അറുതിയില്ലായ്മ.
+[24043] Impious, ഭക്തികെടുള്ള, ദുൎമ്മാൎഗ്ഗമുള്ള, ദുഷ്ടതയുള്ള.
+[24047] Implacability, മനസ്സലിവില്ലായ്മ, ആൎദ്രതയില്ലായ്മ, ഇണങ്ങാത്തവൈരം, തീരാത്ത ശത്രുത, അടങ്ങാത്ത പക്ഷം.
+[24695] Indecorous, അവലക്ഷണമുള്ള, ചെൎച്ചയില്ലാത്ത, അൎഹതയില്ലാത്ത.
+[25915] Interregnum, Interreign, s, അരാജകസമയം, ഒരു രാജാവ മരിച്ചിട്ട മറ്റൊരു രാജാവ എൎപ്പെടുന്നതുവരെയുള്ള സമയം.
+[26083] Inturgescence, വീങ്ങുക.
+[26712] Kept, pret. & part. pass. of To Keep, വെച്ചു, വെച്ച.
+[26874] Knew, preterit of To Know, അറിഞ്ഞു.
+[27035] Laid, part. pass. of To Lay, വെച്ച, ഇട്ട.
+[27037] Lain, part. pass of To Lie, കിടന്ന.
+[27171] Lapidist s. രത്നക്കല്ലുകൾ വ്യാപാരം ചെയ്യുന്നവൻ.
+[27359] Lay, preterit of To Lie, കിടന്നു.
+[27535] Leaves, s. plural. of Leaf, ഇലകൾ.
+[27555] Led, part, pret. of To Lead, നടത്തി.
+[27577] Left, part, pret. of To Leave, വിട്ട.
+[27637] Leisure s. അവസരം, സമയം, സാവകാശം, വെലഒഴിവ, ഇട, സ്വസ്ഥത, സ്വസ്ഥവൃത്തി, മിനക്കെട.
+[27673] Lent, part. pass of To Lend, കടംകൊടുത്ത.
+[27841] Lice, s. plural. of Louse, പെനുകൾ.
+[28131] Liquids, s. plural. l, m, n, r, എന്ന അക്ഷരങ്ങൾ.
+[28153] Lit, preterit of To Light, കൊളുത്തി.
+[28225] Lives, s. plural. of Life, ജീവങ്ങൾ.
+[28239] Lo! interj. ഇതാ, അതാ; കണ്ടാലും.
+[28265] Loaves, s. plural. of Loaf; അപ്പങ്ങൾ.
+[28339] Logomachy s. വാക്കു തൎക്കം, വാഗ്വാദം
+[28383] Longways, Longwise, ad, നെടുനീളത്തിൽ, നീളത്തിൽ.
+[28405] Look! interj. നൊക്ക, ഇതാ.
+[28455] Lordling, s. (നിന്ദ്യാൎത്ഥത്തിൽ ) കൎത്താവ.
+[28728] Lying, part. of To Lie, കിടക്കുന്ന.
+[28782] Made, part. pret. of To Make, ഉണ്ടാക്കി, ഉണ്ടാക്കിയ, നിൎമ്മിച്ച, നിൎമ്മിച്ചു.
+[28842] Maid, Maiden, s, കന്യക; വീട്ടിപ്പെണ്ണ, വെള്ളാട്ടി.
+[29431] Mawkishness, s,.അരൊചകം, വിരക്തി.
+[29787] Met, The pret. & part. of To Meet, എതിരെറ്റു, എതിരെറ്റ.
+[29863] Mice, s. plural. of Mouse, ചുണ്ടെലികൾ.
+[29923] Mlight, pret. of May.
+[29938] Milch—cow, കറക്കുന്ന പശു.
+[30157] Mis, മറ്റുവാക്കുകളുടെ ആദിയിങ്കൽ ദൂരൎത്ഥം കാണിപ്പാനായിട്ട വെക്കുന്ന പദം, ദുർ, നിർ, ഇത്യാദിയായുള്ള പദങ്ങൾ എന്നപൊലെ.
+[30463] Molosses, or Molasses, ശൎക്കരയിൽ നിന്ന ഒലിക്കുന്ന ചാറ, രസജം, കരിമ്പുനീരിന്റെ പത.
+[30465] Molten, part. pass. from To Melt, ഉരുക്കിയ, വാൎക്കപ്പെട്ട.
+[30479] Monad, Monade, s, അണു.
+[30783] A mountain torrent, ഗിരിനദി, അരുവി.
+[31429] Niceties. രസവസ്തുക്കൾ.
+[31549] Noddle, s. (ഹാസ്യത്തിൽ ) തല.
+[32107] Oeconomy, s. See Economy.
+[32169] Oft, Often, Oftentimes, Ofttimes, ad.പലപ്പൊഴും, കൂടെക്കൂടെ, അടിക്കടി, പലപ്രാവശ്യം.
+[32175] Oh! interj. ഹെ, ആ, ഹാഹാ, അഹൊ.
+[32193] Old—age, വൃദ്ധത, മുതിൎന്നവയസ്സ. An old man, കിഴവൻ, വൃദ്ധൻ, മൂപ്പൻ, വയസ്സൻ. An old Woman, കിഴവി, വൃദ്ധ.
+[32195] Oldsih, വയസ്സുചെന്ന, പഴക്കം ചെന്ന.
+[32315] Openness, s.സ്പഷ്ടത , തെളിവ, തുറസ്സ; പരമാൎത്ഥം, കപടമില്ലായ്മ.
+[32503] Original language. മൂലഭാഷ.
+[32589] Otherwise—minded, അന്യമനസ്സ.
+[32981] Paid, pret. & part. pass. of To Pay, കൊടുത്തു, വീട്ടി, കൊടുത്ത, വീട്ടിയ.
+[33269] Parenthesis, s. ( ) എന്ന ൟ അടയാളം.
+[33351] A Partial person, പക്ഷപാതി, പാൎശ്വികൻ.
+[33387] Partook, pret. of To Partake, പങ്കകൂടി.
+[33643] A pearl necklace, മുക്താവലി, മുത്തുമാല.
+[33735] U u 2
+[33851] Pent, part. pass, of To Pen, അടെക്കപ്പട്ട.
+[33967] Perforation s. തുളെക്കുക, തുളമാനം.
+[34261] Pharmacopœa, s.ഔഷധങ്ങൾ യൊഗം കൂട്ടെണ്ടുന്ന വിധത്തെ കാണിക്കുന്ന പുസ്തകം.
+[34844] Plenipotentiary s. കാൎയ്യം നടത്തുവാൻ പൂൎണ്ണാധികാരം ലഭിച്ചവൻ, പൂൎണ്ണാധികാരമുള്ള സ്ഥാനപതി.
+[35024] Pointblank, ചൊവ്വെ, കുറിക്കുനെരെ.
+[35060] The Polar star or North Pole itself. ഒൗത്താനപാദി, ധ്രുവൻ.
+[35106] A polled cow or bull, മൊഴ.
+[35906] Presentaneous, a.ത്സടുതിയായുള്ള, ഉടനെ ഫലിക്കുന്ന, അടുത്ത.
+[36164] Prithee, abbrev. for I pray thee, ഞാൻ നിന്നൊട അപെക്ഷിക്കുന്നു.
+[36172] A private soldiar, പട്ടാളക്കാരൻ, തൊക്കുകാരൻ.
+[36176] A private man, ഉദ്യൊഗസ്ഥനല്ലാത്ത മനുഷ്യൻ.
+[36202] Pro, വെണ്ടി; see Con.
+[37709] Ran, preterit of To Run, ഒടി.
+[37727] Rang, preterit of To Ring, മണിയടിച്ചു.
+[37993] Reasoning, s.വ്യവഹാരം, ന്യായവചനം, യുക്തിവാക്ക.
+[38139] a letter of recommendation, ശുപാൎശിക്കടലാസ, പ്രശംസകടലാസ.
+[38429] Reft, pret. &. part. of To Reave, അപഹരിച്ചു, അപഹരിച്ച.
+[38785] Repaid, part. of To Repay, തിരികെ കൊടുത്ത, വീടിയ.
+[39429] Rhapsody s. അസംബന്ധ എഴുത്ത, അസംബന്ധവാക്ക.
+[39477] Boiled—rice, ചൊറ.
+[39495] Ridden, part. of To Ride, വാഹനം എറിയ.
+[39753] Rode, pret. of To Ride, വാഹനം എറി.
+[40127] Rung, pret. & part. pass. of To Ring, മണിയടിച്ചു, മണിയടിച്ച.
+[40307] Said, pret. & part. pass. of To Say, പറഞ്ഞു; മെൽ പറഞ്ഞു; പറഞ്ഞ, മുൻ പറഞ്ഞ.
+[40493] Sang, pret. of To Sing, പാടി.
+[40519] Sank, pret. of To Sink, മുങ്ങി, താണു.
+[40579] Sat, pret. of To Sit, ഇരുന്നു.
+[40859] Schismatic, Schismatical, a, മതഭിന്നതയുള്ള, വെദവിപരീതമുള്ള.
+[41277] A season of distress, ആപത്തുകാലം.
+[41347] Secretion, s. (ശരീരത്തിൽ) നീർഭെദം, ഭെദനം.
+[41495] I myself, ഞാൻ തന്നെ.
+[41497] Thyself, നീ തന്നെ.
+[41499] Yourselves, നിങ്ങൾ തന്നെ.
+[41501] Themselves, അവർ തന്നെ.
+[41537] Semi, a. (കൂട്ടെഴുത്തിൽ ) പാതി, as semi—circle പാതിവൃത്തം, വൃത്തത്തിൽ പാതി, അൎദ്ധചക്രം.
+[41617] Sent, part. pass. of To Send, അയച്ച.
+[41913] Shade s. നിഴൽ, ഛായ; മങ്ങൽ, മൂടൽ; തണൽ; മറവുസ്ഥലം, കാവ; മറ; രക്ഷ; ചിത്രത്തിലെ ഇരുണ്ടവൎണ്ണം: വൎണ്ണഭെദം.
+[41949] Shall, v. defective.
+[41951] I shall go, ഞാൻ പൊകും.
+[41953] I shall stay, ഞാൻ പാൎക്കും.
+[41977] Shambles, s. (ആടുമാടുകളെ) അറുക്കുന്ന സ്ഥലം, ഇറച്ചിവിലുന്ന സ്ഥലം, മാംസ വിക്രയസ്ഥലം.
+[42081] Blood—shedding, രക്തചൊരിച്ചിൽ.
+[42241] Shod, pret. & part. pass of To Shoe, ലാടം തറെച്ചു, തറെച്ച.
+[42329] Should, verb aux: വെണ്ടിയിരിക്കുന്നു.
+[42421] Shrunk, Shrunken, pret. & part. pass. of To Shrink, ചുരുങ്ങി, ചുളുങ്ങിയ.
+[42527] Sign—manual, കയ്യെഴുത്തെ, കയ്യൊപ്പ.
+[42917] Slain, part, pass. of To Slay, കൊന്ന, കൊല്ലപ്പെട്ട.
+[42931] Slang, pret. of To Sling, എറിഞ്ഞു.
+[43029] Slept, pret. of To Sleep, ഉറങ്ങി.
+[43031] Slew, pret. of To Slay, കൊന്നു, വധിച്ചു.
+[43039] Slid, pret. of To Slide, വഴുതി.
+[43185] Slung, pret. & part. of To Sling, കവണികൊണ്ട എറിഞ്ഞു, എറിഞ്ഞു.
+[43187] Slunk, pret. & part. of To Slink, മാറിക്കളഞ്ഞു, മാറികളഞ്ഞ.
+[43251] Smelt, pret. & part. pass. of To Smell, മണത്തു, മണത്ത.
+[43283] Smitten, part. Pass. of To Smite, അടിക്കപ്പെട്ട.
+[43307] Smote, pret. of To Smite, അടിച്ചു.
+[43483] Soapy, v.ചവല്ക്കാരമയമുള്ള.
+[43523] Sodden, past. pass. of To Seeth, വെവിച്ച.
+[43571] Sold, pret. & part. pass. of To Sell, വിറ്റു, വിറ്റ.
+[43825] Sought, pret. & part. pass of To Seek, അന്വൊഷിച്ചു, അന്വെഷിച്ച.
+[43903] Sown, part. of To Sow, വിതെച്ച.
+[43919] Spake, part. of To Speak, പറഞ്ഞു, സംസാരിച്ചു.
+[44071] Sped, pret.& part. pass. of To Speed, ബദ്ധപ്പെട്ടു, ബദ്ധപ്പെട്ട.
+[44163] Spiniferous, a: മുള്ളുള്ള.
+[44301] Spoke, s. (വണ്ടി ഉരുളിന്റെയും മറ്റും) കീലം, എഴുക.
+[44303] Spoke, pret. of To Speak, പറഞ്ഞു.
+[44305] Spoken, part. pass. of To Speak, പറഞ്ഞ.
+[44331] Sponsor s. ഉത്തരവാദി, എല്ക്കുന്നവൻ, ജാമ്യൻ; ചുമതലക്കാരൻ.
+[44365] A sportman's shout of victory, വെട്ടവിളി, നായാട്ടുവിളി.
+[44377] Spotty, a.കറകളുള്ള, പുളിയുള്ള.
+[44397] Sprang, pret. of To Spring, മുളെച്ചു.
+[44457] Sprung, pret. & part. pass. of To Spring, മുളെച്ചു, മുളെച്ച.
+[44467] Spun, pret. &. part. pass. of To Spin, നൂറ്റു, നൂറ്റ.
+[44611] Stacte, s.സൗരഭ്യമുള്ള പശ, ഗുൽഗുലു.
+[44745] Standerby, നൊക്കിനില്ക്കുന്നവൻ.
+[44755] Stank, pret. of To Stink, നാറി.
+[44785] Stark—mad, തീരെ ഭ്രാന്തുള്ള.
+[44787] Stark—nacked, അശെഷം നഗ്നമായുള്ള.
+[45003] Step, (സമാസത്തിൽ) വിവാഹവഴിയിൽ സംബന്ധമുള്ള; as, Step—mother, പിതാവ പിന്നെ വിവാഹം കഴിച്ചവൾ.
+[45197] Stole, pret. of To Steal, മൊഷ്ടിച്ച.
+[45199] Stolen, part. pass. of To Steal, മൊഷ്ടിക്കപ്പെട്ട.
+[45213] Stone-still, ഇളകാത്ത.
+[45215] Stone-dead, അശെഷം ജീവനില്ലാത്ത.
+[45217] Stone-blind, അശെഷം കണ്ണുകാണാത്ത.
+[45237] Stood, pret. of To Stand, നിന്നു.
+[45509] A strong man, ബലവാൻ, പരാക്രമശാലി, വിക്രമി.
+[45525] Strove, pret. of To Strive, പ്രയാസപ്പെട്ടു.
+[45527] Struck, pret. &. part. pass. of To Strike, അടിച്ചു, അടിക്കപ്പെട്ട.
+[45541] Strung, pret. &. part. pass. of To String, കൊൎത്തു, കൊൎത്ത, കൊൎക്കപ്പെട്ട.
+[45565] Stuck, pret. &. part. pass. of To Stick, പറ്റി, പറ്റിയ.
+[45611] Stung, pret. & part. pass. of To Sting, കുത്തി, കുത്തിയ, കടിച്ചു, കടിച്ച.
+[45613] Stunk, pret. of To Stink, നാറി.
+[45627] A stupid fellow, വിടുവിഡ്ഡി, കുണ്ഠൻ, മുട്ടാളൻ, തടിയൻ.
+[45677] Sub, (സമാസത്തിൽ ) കീഴെ, താഴെ, താണ.
+[46141] Summary s. ചുരുക്കൽ, സംക്ഷെപണം; സംക്ഷെപം, സംഗ്രഹം: ചുരുക്കത്തിലുള്ള വിവരം.
+[46193] Sung, pret & part. pass. of To Sing, പാടി, പാടിയ.
+[46195] Sunk, pret & part. pass. of To Sink, താണു, താഴ്ത്തി, താണ, താഴ്ത്തിയ; മുങ്ങി, മുങ്ങിയ, മുക്കി, മുക്കിയ.
+[46215] Super, (സമാസത്തിൽ ) അതി, അധികം; മെലെ.
+[46405] Supra, (സമാസത്തിൽ) മെലെ, മുമ്പെ.
+[46415] Sur, (സമാസത്തിൽ) മെൽ, മെലെ, മീതെ; അധികം, അതി.
+[46619] Swam, pret. of To Swim, നീന്തി.
+[46635] Sware, pret. of To Swear, ആണയിട്ടു.
+[46737] Swept, pret.& part pass of To Sweep, ചൂൽകൊണ്ട അടിച്ചു, അടിച്ച.
+[46799] Swollen, Swoln, part. pass. of To Swell, വീൎത്ത, വീങ്ങിയ.
+[46823] Swore, pret. of To Swear, ആണയിട്ടു.
+[46825] Sworn, part. pass of To Swear, ആണയിട്ട, സത്യം ചെയ്ത.
+[46827] Swung, pret. & part. pass. of To Swing, ആടി, ആടിയ.
+[46923] Syphon, s. See Siphon, ഒരു കുഴൽ.
+[46939] Systole, s. (വൈദ്യത്തിൽ) ഹൃദയച്ചുരുങ്ങൽ; (വ്യാകരണത്തിൽ) നീണ്ടപദത്തെയും മറ്റും ചുരുക്കുന്നത.
+[47111] Taken, part. pass. of To Take, എടുത്ത, എടുക്കപ്പെട്ട.
+[47135] A Talkative person, വാചാലൻ, വാഗ്മി, വായാടി.
+[47339] Taught, pret.&part. pass. of To Teach, പഠിപ്പിച്ചു, പഠിപ്പിക്കപ്പെട്ട.
+[47809] Their's, അവൾക്കുള്ള.
+[47823] Now & then, ചിലപ്പൊൾ, ചിലസമയത്ത.
+[47907] Through thick & thin, എതവിധത്തിലും.
+[48031] Thought, pret.& part. pass of To Think, തൊന്നി, തൊന്നിയ ; നിരൂപിച്ചു, നിരൂപിക്കപ്പെട്ട.
+[48093] Threw, pret. of To Throw, എറിഞ്ഞു.
+[48137] Throve, pret. of To Thrive, വാച്ചു, വൎദ്ധിച്ചു.
+[48357] Timeless, C, അകാലമായുള്ള, സമയമില്ലാത്ത.
+[48553] Told, pret. & part. pass. of To Tell, പറഞ്ഞു, പറഞ്ഞ; അറിയിച്ചു, അറിയിക്കപ്പെട്ട.
+[48619] Took, pret. of To Take, എടുത്തു.
+[48625] Tooth & nail, അതിബലത്തൊടെ, ഊക്കൊടെ.
+[48701] Tore, pret. of To Tear, കീറി.
+[48709] Torn, part, pass, of To Tear, കീറിയ, ചീന്തിപ്പൊയ.
+[48767] Tossed, or Tost, pret. & part, pass of To Toss, എറിഞ്ഞും മറിഞ്ഞ.
+[48923] Trafficker s. വ്യാപാരി, കച്ചവടക്കാരൻ.
+[48993] Trans, (സമാസത്തിൽ) അപ്പുറം, അക്കരെ, കടന്ന.
+[49447] Trod, Trodden, part. pass. of To Tread, ചവിട്ടിയ, മെതിക്കപ്പെട്ട.
+[49449] Trode, pret. of To Tread, ചവിട്ടി, മെതിച്ചു.
+[49655] Tumbrel s. ചാണകക്കുഴി; ചാണകവണ്ടി.
+[50560] Understood, pret. & part. pass, of To Understand, അറിഞ്ഞു, അറിയപ്പെട്ട.
+[50572] Undertook, part. pass. of To Under— take, എറ്റ.
+[50580] Underwent, pret. of To Undergo, അനുഭവിച്ചു.
+[50618] Undid, pret. of To Undo, നശിപ്പിച്ചു.
+[51080] Uningenuous, a.ഔദാൎയ്യമില്ലാത്ത, പരമാൎത്ഥമല്ലാത്ത, കപടമുള്ള, നെരില്ലാത്ത.
+[52278] Up & down. മെലൊട്ടും കീഴൊട്ടും; ഇങ്ങൊട്ടും അങ്ങൊട്ടും: മുമ്പൊട്ടും പിന്നൊട്ടും; അവിടവിടെ.
+[52282] Up with. ഒപ്പമായി.
+[52284] Up with it. പൊക്കിയെടുക്ക, മെൽപൊകട്ടെ.
+[52354] Upstart, s. (ദരിദ്രനായികിടന്ന) വെഗത്തിൽ സമ്പന്നനായവൻ.
+[52440] Usurpation, s .അപഹാരം, പിടിച്ചുപറി.
+[52460] I will do my utmost, എന്നാൽ കഴിയുന്നിടത്തൊളം ചെയ്യും.
+[52538] A vain person, വീണൻ.
+[52848] A verbal dispute, വാക്കുതൎക്കം, വാഗ്വാദം.
+[52852] A verbal translation, വാക്കിന വാക്കായി പൊരുൾതിരിച്ചത.
+[53054] Vice, s. (സമാസത്തിൽ, ) വലിയ ആളിനു പകരം കാൎയ്യം നടത്തുന്നവൻ; രണ്ടാം അധിപതി.
+[53378] Voice, s.ശബ്ദം, സ്വരം; കുരൽ; വാക്ക, സമ്മതവാക്ക; പറഞ്ഞിട്ടുള്ള അഭിപ്രായം.
+[53648] A wandering star, അസ്ഥിരമായുള്ള നക്ഷത്രം.
+[53764] Was, pret. of To Be, ആയി, ആയിരുന്നു.
+[53790] Wast, നീ ആയി, നീ ആയിരുന്നു.
+[53972] A wealthyman, സമ്പന്നൻ, ധനവാൻ.
+[54192] Wept, pret. & part. of To Weep, കരഞ്ഞു, കരഞ്ഞ.
+[54194] Were, plu. of Was; pret. of the verb To Be, ആയിരുന്നു, ആയി, ഉണ്ടായിരുന്നു.
+[54246] Whatever, Watsoever, pron, എതെങ്കിലും, എന്തെങ്കിലും, എന്തതന്നെ എങ്കിലും.
+[54342] Whiff, s. (കാറ്റിന്റെയും മറ്റും) വീച്ച, ഊത്ത, ശ്വാസം.
+[54398] Whip, part. & pret. of To Whip, ചമ്മട്ടികൊണ്ട അടിച്ച; ചമ്മട്ടികൊണ്ടു അടിച്ചു.
+[54430] interj. ഉരിയാടാതിരി.
+[54610] Good—will, നല്ല മനസ്സ, ദയ, കൃപ, പക്ഷം.
+[54612] Ill—will, ദുർമ്മനസ്സ, ദുശ്ചിന്ത, വെണ്ടാസനം.
+[54740] A wise man, ബുദ്ധിമാൻ, ബുധൻ, പ്രജ്ഞൻ.
+[54764] Wist, pret. & part. of To Wis, അറിവുണ്ടായി, അറിവുണ്ടായ.
+[54772] A Wit, ബുദ്ധിമാൻ, കൂൎമ്മബുദ്ധിക്കാരൻ, യുക്തിക്കാരൻ.
+[54802] Withholden, part. pass, of To With hold, പിടിച്ച വെക്കപ്പെട്ട, വിരൊധിക്കപ്പെട്ട, അടക്കപ്പെട്ട.
+[54846] Wives, s. plural. of Wife, ഭാൎയ്യമാർ.
+[54890] Won, pret. & part. pass, of To Win, നെടി, ജയിച്ചു; നെടിയ, ജയിക്കപ്പെട്ട.
+[54994] Wore, pret. of To Wear, ധരിച്ചു, ഇട്ടു, തെഞ്ഞു.
+[55042] Worldliminded, പ്രപഞ്ചവിചാരമുള്ള, ലൌകികചിന്തയുള്ള.
+[55054] Worn, part. pass. of To Wear, ധരിച്ച, തെഞ്ഞ.
+[55062] Worse & Worse, ഒന്നിനൊന്നിന ചീത്തയായി, അധികമധികംവഷളായി.
+[55102] A worthless fellow, ചപ്പൻ.
+[55112] Wove, pret. & part. pass. of To Weave, നെയ്തു, നെയ്യപ്പെട്ട.
+[55114] Would, pret. of Will, മനസ്സായി.
+[55120] Wound, pret. of To Wind, ചുറ്റിച്ചു, ചുറ്റി, ചുഴറ്റി.
+[55208] Writ, pret. & part. pass. of To Write, എഴുതി, എഴുതപ്പെട്ട.
+[55246] Wrote, pret. & part. of To Write, എഴുതി, എഴുതിയ.
+[55250] Wrought, pret. & part. of To Work, വെലചെയ്തു, പ്രവൃത്തിച്ച, ഉണ്ടാക്കി, ഉണ്ടാക്കപ്പെട്ട; തീൎത്ത, തീൎക്കപ്പെട്ട.
+[55252] Wrung, pret. &. part. of To Wring, പിഴിഞ്ഞു, പിഴിഞ്ഞ.
+[55258] X, is a letter which begins no word in the English language.
+[55296] Ye, nom. plu of Thou, നിങ്ങൾ തങ്ങൾ.
+[55388] A young man, ബാലകൻ, യൌവനമുള്ളവൻ, തരുണൻ, ചെറുപ്പകാരൻ.
+[55390] A young woman, ബാല, ബാലസ്ത്രീ, തരുണി, യുവതി, ബാല്യക്കാരി, ചെറുപ്പകാരി.
